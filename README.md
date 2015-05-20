@@ -1,7 +1,7 @@
-# HS Intro to Web Design Track
+# Pre-College Advanced to Web Design Track
 
 ## Overview
-This repository will act as a course guide/masterplan for Web Design Track.
+This repository will act as a course guide/masterplan for the Advanced Web Design Track.
 
 Here you'll find:
 
@@ -11,23 +11,23 @@ Here you'll find:
 
 ## Course Outline
 
-### [Day 1 - Intro to HTML](day-01/)
+### [Day 1 - Intro to JavaScript](day-01/)
 
-### [Day 2 - HTML & CSS Basics](day-02/)
+### [Day 2 - JS Functions, Arrays, and Loops](day-02/)
 
-### [Day 3 - CSS Layout](day-03/)
+### [Day 3 - jQuery Basics](day-03/)
 
-### [Day 4 - Advanced Styling](day-04/)
+### [Day 4 - jQuery Advanced](day-04/)
 
-### [Day 5 - User Experience](day-05/)
+### [Day 5 - Review and Group Project](day-05/)
 
-### [Day 6 - jQuery Basics](day-06/)
+### [Day 6 - Hashes, JSON, and API's](day-06/)
 
-### [Day 7 - jQuery Events](day-07/)
+### [Day 7 - Project Planning](day-07/)
 
-### [Day 8 - Project 1](day-08/)
+### [Day 8 - Project 1, Mini-Lecture: JS Libraries](day-08/)
 
-### [Day 9 - Project 2](day-09/)
+### [Day 9 - Project 2, Mini-Lecture: JS Frameworks](day-09/)
 
-### [Day 10 - Project 3](day-10/)
+### [Day 10 - Project 3, Science Fair](day-10/)
 
