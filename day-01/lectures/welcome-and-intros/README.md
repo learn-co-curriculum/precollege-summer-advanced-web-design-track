@@ -5,4 +5,4 @@
 	* Evolution
 	* Group Trivia 
 	* An [Improv Game](https://github.com/learn-co-curriculum/tf-improv-games) could work well here, too. 
-+ Now that everyone knows each other, go ahead and start the [deck](https://docs.google.com/presentation/d/12H4MDWtvhW_3LY4MKj8qvCKZORWZX2Pw6qIuiVqkdUU/edit#slide=id.p). 
++ Now that everyone knows each other, go ahead and start the class. 
