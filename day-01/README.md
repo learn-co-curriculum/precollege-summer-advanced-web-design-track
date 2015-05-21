@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>10:20 - 11:30</td>
-        <td>CLI/GIT Review</td>
+        <td>Lecture: Review</td>
         <td> 
             <a href="lectures/cli">Lecture: CLI</a>
             </br>
@@ -69,15 +69,23 @@
 
 ##SWBATS
 
+### HTML
++ Understand the structure of an HTML Document
++ Use HTML tags to create webpages
+
+### CSS
++ Use CSS selectors to style elements
++ Use CSS selectors to position/layout resources
++ Utilize Bootstrap into their projects
+
 ### JavaScript Basics
-+ Display text in the console
++ Use the JavaScript console in their web browser
 + Perform math with JS
-+ Declare JavaScript variables
++ Declare and assign value to JavaScript variables
 + Declare JS constants
-+ Understand JS datatypes
-+ Execute string concatenate
++ Understand and use JS datatypes
++ Execute string concatenation 
 + Utilize string methods
-+ Execute string concatenate
 + Understand datatype conversion and why/when to use it
 + Use different types of dialogue boxes like alert and prompt
 + Understand comparison and logic operators
