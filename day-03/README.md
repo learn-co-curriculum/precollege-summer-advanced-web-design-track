@@ -1,4 +1,4 @@
-# Day 3
+# Day 3 - jQuery Basics
 
 ## Schedule
 
@@ -62,24 +62,12 @@
 
 ## SWBATS
 
-###HTML
++ Import and Initialize the jQuery library
++ Understand why you need to wait for the document to be ready
++ Use correct syntax
++ Use CSS Selectors to get jQuery elements
++ Use the `$(this)` selector
++ Handle a jQuery Collection
++ Iterate through a jQuery Collection
 
-+ Break up a page with divs
-+ Understand how to use HTML5 semantic elements - header, footer, nav, etc.
-+ Understand how to use HTML5 `audio` and `video` tags
 
-###CSS
-
-+ Understand box model and how it is impacted by padding, margin and border
-+ Use content overflow property - visible, hidden, scroll, auto
-+ Understand inline vs. block vs. inline-block element displays
-+ Understand how to use float and clear properties
-+ Understand how to apply clearfix solution
-+ Understand how to use CSS position properties - relative, absolute and fixed
-+ Use background properties for box styling
-
-## Resources
-
-## Lectures
-
-<a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-css-layout"> CSS Layout</a>
