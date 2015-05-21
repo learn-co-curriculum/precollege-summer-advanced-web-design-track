@@ -9,19 +9,47 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
+        <td>9:00 - 9:30</td>
         <td> To-Do</td>
         <td>
             <a href="#">Day 4 Deck</a>
             <br>
-            <a href="">ToDo: My Little Rainbow</a>
+            <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Simple-Calc">ToDo: Simple Calculator</a>
         </td>
     </tr>
     <tr>
+        <td>9:30 - 10:30</td>
+        <td>jQuery Inputs and User Data</td>
+        <td>
+            <a href="#">Lecture: Input and User Data</a>
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td>10:30 - 11:30</td>
+        <td> User Input Calculator Lab </td>
+        <td>
+            <a href="http://learn-co-curriculum.github.io/fe-jquery-user-input-calc/">Lab: User Input Calculator</a></br>
+        </td>
+    </tr>
     <tr>
         <td>11:30 - 12:30</td>
         <td> Lunch </td>
         <td>
+        </td>
+    </tr>
+    <tr>
+        <td>12:30 - 1:00</td>
+        <td> Improv </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>1:00 - 2:50</td>
+        <td> Lab: Task List </td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/task-list">Lab: Task List</a></br>
+            <a href="https://github.com/learn-co-curriculum/User-Comments"></a>Stretch Lab: User Comments</br>
         </td>
     </tr>
     <tr>

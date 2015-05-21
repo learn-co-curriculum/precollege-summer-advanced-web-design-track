@@ -18,25 +18,18 @@
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:00</td>
+        <td>9:15 - 10:15</td>
         <td>Arrays and Loops</td>
         <td> 
           <a href="#">Lecture: Arrays and Loops</a></br>
         </td>
     </tr>
     <tr>
-        <td>10:00 - 11:00</td>
+        <td>10:15 - 11:30</td>
         <td>Labs</td>
         <td> 
           Arrays/Loops labs here
         </td>
-    </tr>
-    <tr>
-      <td>11:00 - 11:30</td>
-      <td>Lecture: Functions</td>
-      <td> 
-        <a href="#">Lecture: Functions</a></br>
-      </td>
     </tr>
     <tr>
       <td>11:30 - 12:30</td>
@@ -49,18 +42,17 @@
       <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
     </tr>
     <tr>
-      <td>1:00 - 2:00</td>
-      <td>Labs</td>
+      <td>1:00 - 1:45</td>
+      <td>Lecture: Functions</td>
       <td> 
-        Functions Labs
+        <a href="#">Lecture: Functions</a></br>
       </td>
     </tr>
     <tr>
-      <td>2:00 - 2:50</td>
-      <td>Independent Study</td>
+      <td>1:45 - 2:50</td>
+      <td>Labs</td>
       <td> 
-        <a href="lectures/independent_study">Independent Study Guide</a></br>
-        Students who want to can work on labs.</br>
+        Functions Labs
       </td>
     </tr>
     <tr>

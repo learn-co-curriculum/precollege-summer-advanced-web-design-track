@@ -20,16 +20,16 @@
     </tr>
     <tr>
         <td>9:15 - 10:00</td>
-        <td>jQuery functions</td>
+        <td>jQuery</td>
         <td> 
             <a href="#">Lecture: jQuery</a>
         </td>
     </tr>
     <tr>
         <td>10:00 - 11:30</td>
-        <td>jQuery Practice</td>
+        <td>jQuery Labs</td>
         <td> 
-            Labs/Practice Here
+            <a href="https://github.com/learn-co-curriculum/Js-Atm-Function-Based">Lab: JS ATM</a>
         </td>
     </tr>
     <tr>
@@ -38,20 +38,13 @@
         <td> EAT FOOD </td>
     </tr>
     <tr>
-        <td>12:30 - 1:50</td>
-        <td> CSS LAYOUT LABS</td>
-        <td> <a href="https://github.com/learn-co-curriculum/Hs-Empire-State-Css-Challenge">Lab: Empire State</a>
-        <br>
-        <a href="https://github.com/learn-co-curriculum/hs-zetsy">Lab: Zetsy</a>
-        <br>
-        <a href="https://github.com/learn-co-curriculum/hs-zhw-shoes-layout"> Lab: ZHW Shoes</a>
+        <td>12:30 - 2:50</td>
+        <td> Group Project </td>
+        <td> 
+            <a href="https://github.com/learn-co-curriculum/hs-whac-a-mole">Whac-A-Mole</a>
          </td>
     </tr>
-    <tr>
-        <td>1:50 - 2:50</td>
-        <td> Independent Study</td>
-        <td> </td>
-    </tr>
+
     <tr>
         <td>2:50 - 3:00</td>
         <td> Wrap</td>
