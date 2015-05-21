@@ -68,20 +68,23 @@
 
 ## SWBAT
 
-+ Understand that Javascript provides a language to add behaviors to our web pages.
-+ Include Javascript in their HTML using `<script>` tags with `src` and in-line Javascript.
-+ Include jQuery in their web pages from a CDN host.
-+ Understand that Javascript creates a Document Object Model where you can represent the HTML nodes and elements from Week 1 as "Objects" that you can manipulate.
-+ Use `$` and `jQuery` to select an element from their page.
-+ Call basic methods on those jQuery DOM elements.
-+ Manipulate existing DOM elements through `jQuery` (change text, change properties).
-+ Insert DOM and modify the page with methods like `append` and `prepend`.
-+ Understand what a DOM Event is and how to add a handler for an event.
+### Hashes
 
-## Resources
++ Understand how a the Hash data structure works conceptually
++ Create Hashes
++ Add, remove, and edit elements
++ Iterate through a hash
++ Nest hashes within one another
 
-[CodeAcademy - jQuery](http://www.codecademy.com/en/tracks/jquery)
-[CodeSchool - jQuery](http://try.jquery.com/)
-[TreeHouse - jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
+### JSON
 
-## Lectures
++ Understand how JSON is used on the web
++ Relate JSON to hashes
++ Navigate through JSON structures
+
+### API's
+
++ Connect to any public facing API
++ Store and access the returned JSON of an API
++ Use callbacks to interpret and act on the returned data 
++ Surface that data to the UI
