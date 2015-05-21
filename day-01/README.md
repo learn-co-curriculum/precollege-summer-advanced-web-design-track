@@ -43,6 +43,8 @@
         <td> 
             <a href="#">Lab: Deploy on Day 1</a></br>
             If students finish early, have them work on  labs
+            <a href="https://github.com/learn-co-curriculum/hs-teenager.js">Lab: Teenager JS</a></br>
+            <a href="https://github.com/learn-co-curriculum/Js-Fizzbuzz">Lab: FizzBuzz</a></br>
         </td>
     </tr>
     <tr>
@@ -54,7 +56,7 @@
         <td>2:20 - 2:50</td>
         <td> Labs </td>
         <td>
-            Links to Labs
+           Practice Writing Functions
         </td>
     </tr>
     <tr>
