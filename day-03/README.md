@@ -62,10 +62,11 @@
 
 ## SWBATs
 
++ Understand the DOM (Document Object Model)
 + Understand how jQuery is just a *library* of JavaScript functions and that anything jQuery does you can do with plain JavaScript
 + Import and Initialize the jQuery library
 + Understand why you need to wait for the document to be ready
-+ Use correct syntax
++ Use `$` and `jQuery` to access jQuery functionality
 + Use jQuery and CSS selectors to access HTML elements
 + Use the `$(this)` selector
 + Create, Read, Update, and Delete (CRUD) HTML elements using jQuery

@@ -1,4 +1,4 @@
-# Day 6
+# Day 6 - Hashes, JSON, and API's
 
 ## Schedule
 
