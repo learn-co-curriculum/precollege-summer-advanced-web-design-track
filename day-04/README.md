@@ -49,7 +49,7 @@
         <td> Lab: Task List </td>
         <td>
             <a href="https://github.com/learn-co-curriculum/task-list">Lab: Task List</a></br>
-            <a href="https://github.com/learn-co-curriculum/User-Comments"></a>Stretch Lab: User Comments</br>
+            <a href="https://github.com/learn-co-curriculum/User-Comments">Stretch Lab: User Comments</a></br>
         </td>
     </tr>
     <tr>
