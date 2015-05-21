@@ -86,46 +86,15 @@
 
 </table>
 
-## SWBAT
+## SWBATs
 
-### HTML
+### Arrays
 
-+ Structure an HTML page using `doctype`, `html`, `head` and `body` tags
-+ explain what goes into the `head` of the document
-+ add text to a page using `p` and `h1` tags
-+ add images using `img` tags
-+ add links using `a` tags and understand the difference between relative and absolute paths
-+ create multiple pages and link them
-+ create lists using `ul` and `ol`
-+ difference between `id` and `class`
-+ Understand when to use `id` vs. `class`
++ Understand what an array is and when to use it
++ Initialize, access, and manipulate arrays
 
-
-### CSS
-+ Select specific content to style using tag names, classes and ids
-+ Write CSS Syntax
-+ link a CSS stylesheet to an HTML page
-+ explain the purpose of CSS
-+ adjust basic properties of text: `font-size`, `font-family`, `text-align`, `font-color`
-+ adjust basic properties of images: `height`, `width`
-+ Adjust backgrounds elements
-+ Use hexadecimal, rgba, and rgb color values
-+ Read documentation of CSS properties
-
-## Resources
-
-[Deck: How The Internet Works](https://docs.google.com/presentation/d/1t0MNjDKfmiSJSG0LP3dmEfK25guIIW8tncV41Hugk2E/edit#slide=id.gafe5def2e_0_109)
-
-[Deck: Visual Hierarchy](https://docs.google.com/presentation/d/1zDmP-gLao4qE5Fi6qBwQ66cSQccfKN-mZDIKbcLDmFE/edit#slide=id.gafebb4385_0_32)
-
-## Lectures
-
-<a href="lectures/HTML_Fundamentals">HTML Fundamentals</a>
-
-<a href="lectures/CSS_Fundamentals">CSS Fundamentals</a>
-
-<a href="lectures/visual_hierarchy">Visual Hierarchy</a>
-
-<a href="lectures/how_the_internet_works">How The Internet Works</a>
-
-<a href="lectures/independent_study">Independent Study Guide</a>
+### Loops
++ Understand how loops run an operation multiple times
++ Understand how an exit condition stops a loop
++ Iterate over arrays using for loops and while loops
++ Convert repeatable tasks into loops

@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 - 
 
 ## Schedule
 
@@ -11,27 +11,25 @@
     <tr>
         <td>9:00 - 10:00</td>
         <td> Welcome and Intros</td>
-        <td> <a href="https://docs.google.com/presentation/d/12H4MDWtvhW_3LY4MKj8qvCKZORWZX2Pw6qIuiVqkdUU/edit#slide=id.p">Day 1 Deck</a> </td>
-    </tr>
-    <tr>
-        <td>10:00 - 10:20</td>
-        <td> Learn Setup and Demo</td>
-        <td> ??</td>
-    </tr>
-    <tr>
-        <td>10:20 - 11:00</td>
-        <td> CLI </td>
-        <td> 
-            <a href="lectures/cli">Lecture Guide</a></br>
-            <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Castle Code Along</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Advanced CLI</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-cli-cultural-piece">Resource: Command Line Fun</a>
+        <td>
+            <a href="#">Day 1 Deck</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
         </td>
     </tr>
     <tr>
-        <td>11:00 - 11:30</td>
-        <td> Student Directory Project Intro / HTML INTRO </td>
-        <td><a href="lectures/student-directory-project">Lecture Guide</a></td>
+        <td>10:00 - 10:20</td>
+        <td>Learn Setup and Demo</td>
+        <td>??</td>
+    </tr>
+    <tr>
+        <td>10:20 - 11:30</td>
+        <td>CLI/GIT Review</td>
+        <td> 
+            <a href="lectures/cli">Lecture: CLI</a>
+            </br>
+            <a href="lectures/git-basics">Lecture: Git</a>
+        </td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
@@ -71,35 +69,16 @@
 
 ##SWBATS
 
-###CLI
-+ Understand and explain what the terminal is and why we use it
-+ Navigate through directories using the `cd` command
-+ Use the `ls` command to list items in a directory
-+ Use `pwd` to see where they are in the file structure
-+ Remove a file and directory using `rm` and `rm -rf`
-+ Move files and directories using the `mv` command
-
-###GIT / GITHUB
-+ Understand the purpose of git
-+ Add and commit files to local repository
-+ Push and commit to a remote repository
-+ Submit a pull request
-
-### HTML
-+ Explain the purpose of HTML
-+ Understand the components of an HTML element (opening tag, content, closing tag)
-+ Modify content between HTML tags
-
-
-## Resources
-
-+ In General for Day 1:
-  + Students need to download Sublime Text
-
-## Lectures
-
-[Command Line](https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-command-line)
-
-[Student Directory Intro](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html)
-
-[Git Add, Commit, Push](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-git-2)
+### JavaScript Basics
++ Display text in the console
++ Perform math with JS
++ Declare JavaScript variables
++ Declare JS constants
++ Understand JS datatypes
++ Execute string concatenate
++ Utilize string methods
++ Execute string concatenate
++ Understand datatype conversion and why/when to use it
++ Use different types of dialogue boxes like alert and prompt
++ Understand comparison and logic operators
++ Use conditional statements to control program flow (if/else and switch)

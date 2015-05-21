@@ -1,6 +1,6 @@
-#JavaScript Basics
+# JavaScript Basics
 
-##SWBATs
+## SWBATs
 
 ***Students will be able understand the fundamentals of JavaScript***
 + Display text in the console
@@ -17,10 +17,10 @@
 + Use conditional statements to control program flow (if/else and switch)
 
 
-##Motivation
+## Motivation
 We've seen how we can use jQuery to manipulate the elements of a website. Now we are going to learn about the technology that jQuery is built upon, JavaScript. JavaScript is a coding language that is supported by every browser and allows developers to write code that can do amazing things on any platform.
 
-##Lesson Plan
+## Lesson Plan
 
 ### Variables
 
@@ -242,9 +242,6 @@ if (gasTank === 34) {
 	+ `<script src="js/myScript.js"></script>`
 + *Go to Learn.co and get some practice using js with the Donut App lab.*
 
+## Conclusions
 
-
-
-
-
-
+JavaScript is the foundation that much of the Internet is built upon. These simple building blocks can be combined to do just about anything you can imagine.   
