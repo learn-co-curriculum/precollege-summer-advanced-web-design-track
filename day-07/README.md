@@ -9,30 +9,27 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
-        <td> To-Do</td>
+        <td>9:00 - 11:30</td>
+        <td>Project Ideation</td>
         <td>
-            <a href="#">Day 7 Deck</a>
-            <br>
-            <a href="#">ToDo</a>
+            <a href="lectures/intro-to-project-mode">Lecture: Intro to Project Mode</a>
         </td>
     </tr>
-    <tr>
     <tr>
         <td>11:30 - 12:30</td>
-        <td> Lunch </td>
+        <td>Lunch</td>
         <td>
         </td>
     </tr>
     <tr>
-        <td>2:50 - 3:00</td>
-        <td> Wrap Up </td>
+        <td>12:30 - 3:00</td>
+        <td>Project Mode</td>
         <td>
-            
+            Students should work on projects for the rest of the day. Feel free to add improv/review lectures as needed. 
         </td>
     </tr>
 </table>
-## SWBATs
 
-+ Work in groups to come up with an appropriately scoped project
-+ Design and implement their project
+## Resources
+
+## Lectures

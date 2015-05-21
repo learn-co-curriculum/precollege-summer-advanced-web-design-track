@@ -18,10 +18,45 @@
         </td>
     </tr>
     <tr>
+        <td>9:15 - 10:15</td>
+        <td>Hashes</td>
+        <td>
+            Hashes Lecture
+        </td>
+    </tr>
+    <tr>
+        <td>10:15 - 10:45</td>
+        <td>JSON</td>
+        <td>
+            JSON Lecture
+        </td>
+    </tr>
+    <tr>
+        <td>10:45 - 10:30</td>
+        <td>APIs</td>
+        <td>
+            API Lecture
+        </td>
+    </tr>
     <tr>
         <td>11:30 - 12:30</td>
         <td> Lunch </td>
         <td>
+        </td>
+    </tr>
+    <tr>
+        <td>12:30 - 1:00</td>
+        <td> Improv </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>1:00 - 2:50</td>
+        <td> API Labs </td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/Fe-Js-Spotify-Api-Ajax">Spotify AJAX</a></br>
+            <a href="https://github.com/learn-co-curriculum/Fe-Flickr-Image-Search">Lab: Flickr API</a></br>
+            <a href="https://github.com/learn-co-curriculum/Js-Weather-Api-Ajax">Lab: Weather Underground API</a></br>
         </td>
     </tr>
     <tr>
@@ -32,6 +67,7 @@
         </td>
     </tr>
 </table>
+
 ## SWBAT
 
 ### Hashes
