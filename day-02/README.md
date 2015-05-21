@@ -13,22 +13,15 @@
         <td> To Dos</td>
         <td>
         <a href="#">Day 2 Deck</a></br>
-        <a href="#">To Do</a>
+        <a href="https://github.com/learn-co-curriculum/js-donut-lab">To Do: Donut Lab</a>
         <br>
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:15</td>
+        <td>9:15 - 11:30</td>
         <td>Arrays and Loops</td>
         <td> 
           <a href="#">Lecture: Arrays and Loops</a></br>
-        </td>
-    </tr>
-    <tr>
-        <td>10:15 - 11:30</td>
-        <td>Labs</td>
-        <td> 
-          Arrays/Loops labs here
         </td>
     </tr>
     <tr>
@@ -50,9 +43,9 @@
     </tr>
     <tr>
       <td>1:45 - 2:50</td>
-      <td>Labs</td>
+      <td>Chrome Extension Project</td>
       <td> 
-        Functions Labs
+    
       </td>
     </tr>
     <tr>
