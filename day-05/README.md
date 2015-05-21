@@ -1,4 +1,4 @@
-# Day 5
+# Day 5 - Review and Group Project
 
 ## Schedule
 
@@ -72,7 +72,3 @@
 * IDEATION — Use storyboarding as a tool for generating compelling narratives and virtual experiences 
 * IDEATION — Use wireframing to prototype their websites
 * Build a choose-your-own-adventure site using HTML and CSS.
-
-## Resources
-
-## Lectures

@@ -60,14 +60,13 @@
     </tr>
 </table>
 
-## SWBATS
+## SWBATs
 
++ Understand how jQuery is just a *library* of JavaScript functions and that anything jQuery does you can do with plain JavaScript
 + Import and Initialize the jQuery library
 + Understand why you need to wait for the document to be ready
 + Use correct syntax
-+ Use CSS Selectors to get jQuery elements
++ Use jQuery and CSS selectors to access HTML elements
 + Use the `$(this)` selector
-+ Handle a jQuery Collection
++ Create, Read, Update, and Delete (CRUD) HTML elements using jQuery
 + Iterate through a jQuery Collection
-
-

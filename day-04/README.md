@@ -1,4 +1,4 @@
-# Day 4
+# Day 4 - jQuery Advanced
 
 ## Schedule
 
@@ -70,28 +70,9 @@
     </tr>
 </table>
 
-## SWBAT
+## SWBATs
 
-### CSS
-
-+ Understand how to use descendant selectors
-+ Use pseudo selectors
-+ Use display-state property to show/hide elements
-+ Use scaling elements - px and %
-+ Understand and use border property for box styling, including border radius and box shadow
-+ Explain the purpose of and use the grid system to build balanced websites.
-+ Use Bootstrap to organize the layout of a website using the grid system.
-+ Use Bootstrap to take advantage of pre-written CSS.
-
-### UX
-
-+ Understand and use general typography theory and language
-
-
-## Resources
-
-## Lectures
-
-[CSS Selectors](lectures/css-selectors)
-
-[Typography](lectures/typography)
++ Understand what constitutes an *event*
++ Attach jQuery event handlers (like 'click') to HTML elements
++ Add callback functions to event handlers
++ Add animations to HTML elements
