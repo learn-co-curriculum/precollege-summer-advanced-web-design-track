@@ -20,15 +20,16 @@
     <tr>
         <td>10:00 - 10:20</td>
         <td>Learn Setup and Demo</td>
-        <td>??</td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/tf-using-nitrous-io">Lecture Guides: Nitrous Setup</a>
+        </td>
     </tr>
     <tr>
         <td>10:20 - 11:30</td>
-        <td>Lecture: Review</td>
+        <td>Lecture: JavaScript Basics</td>
         <td> 
-            <a href="lectures/cli">Lecture: CLI</a>
+            <a href="lectures/js-basics">Lecture: JavaScript Basics</a>
             </br>
-            <a href="lectures/git-basics">Lecture: Git</a>
         </td>
     </tr>
     <tr>
@@ -38,11 +39,10 @@
     </tr>
     <tr>
         <td>12:30 - 1:50</td>
-        <td> Work on Student Project </td>
+        <td>Project: Deploy on Day 1 </td>
         <td> 
-            <a href="https://github.com/learn-co-curriculum/hs-intro-web-student-directory">Lab: Student Directory Project</a></br>
-            If students finish early, have them work on CLI labs or HTML playground. 
-            <a href="https://github.com/learn-co-curriculum/html-playground">Lab: HTML Playground</a></br>
+            <a href="#">Lab: Deploy on Day 1</a></br>
+            If students finish early, have them work on  labs
         </td>
     </tr>
     <tr>
@@ -52,11 +52,9 @@
     </tr>
     <tr>
         <td>2:20 - 2:50</td>
-        <td> Git Add, Commit, Push, Pull Request</td>
+        <td> Labs </td>
         <td>
-            <a href="lectures/git-basics">Lecture Guide</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-git-code-along-catch-up">Interactive Practice: Github I</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-foundations-git-studyguide">Interactive Practice II: Github II</a></br>
+            Links to Labs
         </td>
     </tr>
     <tr>

@@ -12,24 +12,24 @@
         <td>9:00 - 9:15</td>
         <td> To Dos</td>
         <td>
-            <a href="https://docs.google.com/presentation/d/1fQJi5vcTuZMPRFLYZk_jALiKJwacFMZWD0TbNG4n-P4/edit#slide=id.gafe34ef86_0_53">Day 3 Deck</a>
+            <a href="#">Day 3 Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/css-kitten-wheelbarrow">To-Do: Kitten Wheelbarrow</a>
+            <a href="#">To-Do:</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/Dev-Tools-Super-Power">To-Do: Dev Tools Super Power</a>
         </td>
     </tr>
     <tr>
         <td>9:15 - 10:00</td>
-        <td> HTML5 Semantic Elements</td>
+        <td>jQuery functions</td>
         <td> 
-            <a href="lectures/html-5">Lecture: HTML 5</a>
+            <a href="#">Lecture: jQuery</a>
         </td>
     </tr>
     <tr>
         <td>10:00 - 11:30</td>
-        <td> CSS Layout</td>
-        <td> <a href="lectures/css-layout">Lecture: CSS Layout</a>
+        <td>jQuery Practice</td>
+        <td> 
+            Labs/Practice Here
         </td>
     </tr>
     <tr>
