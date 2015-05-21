@@ -1,4 +1,4 @@
-# Day 2
+# Day 2 - JS Functions, Arrays, and Loops
 
 ## Schedule
 
@@ -94,7 +94,16 @@
 + Initialize, access, and manipulate arrays
 
 ### Loops
+
 + Understand how loops run an operation multiple times
 + Understand how an exit condition stops a loop
 + Iterate over arrays using for loops and while loops
 + Convert repeatable tasks into loops
+
+### Functions
+
++ Declare JS functions with and without parameters
++ Call JS functions with and without passing arguments
++ Understand the concept of a return value
++ Understand local and global variable scope
++ Understand when to use semicolons with functions

@@ -1,4 +1,4 @@
-# Day 1 - 
+# Day 1 - Intro to JavaScript
 
 ## Schedule
 
