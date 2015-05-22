@@ -18,10 +18,18 @@
         </td>
     </tr>
     <tr>
-        <td>9:15 - 11:30</td>
+        <td>9:15 - 10:30</td>
         <td>Arrays and Loops</td>
         <td> 
           <a href="#">Lecture: Arrays and Loops</a></br>
+        </td>
+    </tr>
+    <tr>
+        <td>10:30 - 11:30</td>
+        <td>Labs: Arrays and Loops</td>
+        <td> 
+          <a href="https://github.com/learn-co-curriculum/hs-teenager.js">Lab: Teenager JS</a></br>
+            <a href="https://github.com/learn-co-curriculum/Js-Fizzbuzz">Lab: FizzBuzz</a></br>
         </td>
     </tr>
     <tr>
