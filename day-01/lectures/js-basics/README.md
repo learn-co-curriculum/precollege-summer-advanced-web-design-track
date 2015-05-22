@@ -118,39 +118,41 @@ combine; //returns "105"
 	+ `"Foobar".replace(/o/g, "x").toUpperCase(); //returns "FXXBAR"`
 
 ### Data Type Conversion
-	+ Concatenating empty string changes number to a string.
-	```js
-		var stringy = 12 + ' ';
-		typeof stringy; //prints “string”
-	```
-	+ `parseInt` changes a string to a whole number.
-	```js
-		combineStuff = parseInt('10') + 5;
-		combineStuff; //prints 15
-	```
-	+ What the heck happens if I try converting text to a number?
-	```js
-		var userName = parseInt('bob'); //returns NaN
-		//NaN stands for Not a Number
-	```
-	+ What if I want to convert to a floating number instead of an integer?
-	```js
-		var gallonsGas = parseFloat('10.25');
-		gallonsGas; //reports 10.25 as number
-	```
-	+ `parseInt` stops at whole number and ignores characters that are not numbers. 10xffffff same as 10.12345 becomes 10. Where as `parseFloat` maintains decimal values.
+
++ Concatenating empty string changes number to a string.
+```js
+	var stringy = 12 + ' ';
+	typeof stringy; //prints “string”
+```
++ `parseInt` changes a string to a whole number.
+```js
+	combineStuff = parseInt('10') + 5;
+	combineStuff; //prints 15
+```
++ What the heck happens if I try converting text to a number?
+```js
+	var userName = parseInt('bob'); //returns NaN
+	//NaN stands for Not a Number
+```
++ What if I want to convert to a floating number instead of an integer?
+```js
+	var gallonsGas = parseFloat('10.25');
+	gallonsGas; //reports 10.25 as number
+```
++ `parseInt` stops at whole number and ignores characters that are not numbers. 10xffffff same as 10.12345 becomes 10. Where as `parseFloat` maintains decimal values.
 
 ### Dialog Boxes and JS Console
-	+ alerts (Outputs a string)
-		+ `alert('warning do not attempt to cook food using this website!');`
-	+ confirm (Boolean values)
-		+ `var delete = confirm('Are you sure you want to delete this?');` //true or false
-	+ prompt
-		+ `var age = prompt('Please enter your age: ');` //captures the value inserted.
-	+ Log
-		+ `console.log(age);` 
-		+ reports the age they entered into the JS Console located in the developer tool window.
-		+ *ProTip: This can be a great way to show output of code as you're working. [JSbin](http://jsbin.com/?js,console) or similar editors usually have a console window
+
++ alerts (Outputs a string)
+	+ `alert('warning do not attempt to cook food using this website!');`
++ confirm (Boolean values)
+	+ `var delete = confirm('Are you sure you want to delete this?');` //true or false
++ prompt
+	+ `var age = prompt('Please enter your age: ');` //captures the value inserted.
++ Log
+	+ `console.log(age);` 
+	+ reports the age they entered into the JS Console located in the developer tool window.
+	+ *ProTip: This can be a great way to show output of code as you're working. [JSbin](http://jsbin.com/?js,console) or similar editors usually have a console window
 
 ### Doing math with JavaScript: 
 	+ Arithmetic Operators
@@ -174,7 +176,7 @@ combine; //returns "105"
 + JavaScript supports two conditional statements: `if-else` and `switch`.
 + Use the `if` statement to execute a statement if a logical condition is `true`. Use the optional `else` clause to execute a statement if the condition is `false`. An `if` statement looks as follows:
 
-```
+```js
 if (condition)
   statement_1
 [else
@@ -209,25 +211,25 @@ if (gasTank === 34) {
 
 + We can add additional branches to a conditional statement with the `else if` keywords like this:
 ```js
-	if (gasTank === 34) {
-	   console.log('Tank is full.');
-	 } else if (gasTank > 34) {
-	    console.log('Oops, tank is overfilled!');
-	 } else {
-	  	console.log(’Tank refill mandatory!');
-	 }
+if (gasTank === 34) {
+   console.log('Tank is full.');
+ } else if (gasTank > 34) {
+    console.log('Oops, tank is overfilled!');
+ } else {
+  	console.log(’Tank refill mandatory!');
+ }
 ```
 + We can also make more complex conditional statements with logical operators, like this:
 ```js
-	if (gasTank === 34) {
-	    console.log('Tank is full.');
-	 } else if (gasTank > 34) {
-	    console.log('Oops, tank is overfilled!');
-	 } else if (gasTank < 34 && gasTank > 5) {
-	 		console.log(’Tank refill suggested.');
-	 } else {
-	   console.log(’Tank refill mandatory!');
-	 }
+if (gasTank === 34) {
+    console.log('Tank is full.');
+ } else if (gasTank > 34) {
+    console.log('Oops, tank is overfilled!');
+ } else if (gasTank < 34 && gasTank > 5) {
+ 		console.log(’Tank refill suggested.');
+ } else {
+   console.log(’Tank refill mandatory!');
+ }
 ```
 
 ### Logical Operators 
