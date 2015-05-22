@@ -38,19 +38,19 @@
         <td> Order Pizza </td>
     </tr>
     <tr>
-        <td>12:30 - 1:50</td>
+        <td>12:30 - 1:00</td>
+        <td> Improv </td>
+        <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
+    </tr>
+    <tr>
+        <td>1:00 - 2:20</td>
         <td>Project: Deploy on Day 1 </td>
         <td> 
             <a href="#">Lab: Deploy on Day 1</a></br>
-            If students finish early, have them work on  labs
+            If students finish early, have them work on  labs<br>
             <a href="https://github.com/learn-co-curriculum/hs-teenager.js">Lab: Teenager JS</a></br>
             <a href="https://github.com/learn-co-curriculum/Js-Fizzbuzz">Lab: FizzBuzz</a></br>
         </td>
-    </tr>
-    <tr>
-        <td>1:50 - 2:20</td>
-        <td> Improv </td>
-        <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
     </tr>
     <tr>
         <td>2:20 - 2:50</td>
