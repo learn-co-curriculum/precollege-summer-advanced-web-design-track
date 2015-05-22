@@ -1,6 +1,6 @@
 ## SWABATs 
 
-***Students will be able to create their own functions in JavaScript and use Jasmine to test their code.***
++ Understand N.I.C.O (Name, Input, Code, Output)
 + Declare JS functions with and without parameters
 + Call JS functions with and without passing arguments
 + Understand the concept of a return value
@@ -9,11 +9,19 @@
 
 ## Motivation
 
-In this class we’re going to dive much deeper in JS so that you can create full scale dynamic web sites using JavaScript and jQuery to add magic to our pages! To make sure we’re all ready to go deep into JS we’re going to do a little review of JS fundamentals - datatypes, data structures and program flow - and then launch into building JS functions - which are the real building bricks behind building programs with JS. Let the programming begin!
+Today we will learn about functions in JavaScript. This is important because functions let us package code into blocks that we can reuse. It connects to what we've previously learned because we can take the code we've written before and package it into functions. This will prevent us from writing the same code over and over again. We've also been using a handful functions already and this lesson will explain how and why we've been doing that.
 
 ## Lesson Plan
 
-+ Now that we’re getting comfortable with the basics of JS we’re going to move on to JS functions.
+### Concept
+
+In programming, a function holds a set of actions that will only run when we call that function. This ultimately helps us control the flow of our program and allows us to easily repeat a set of actions multiple times.
+
+If you prefer a metaphor:
+A function is kind of like placing a mouse in a box and that mouse will only perform the actions he was trained to do whenever you call his name.
+
+### Declaration
+
 + A JS function is essentially a set of instructions that we write out and can reuse over and over again.
 + (Pick a kid in the class to call on). Joe - I want you to close your computer, stand up and walk out the door.
 + Jk, come back. These essentially are the steps that Joe would follow if he was getting ready to head out to lunch.
@@ -30,14 +38,16 @@ function goGetLunch() {
 + The instructions go inside this function. Let’s alert each of the steps inside of our function and try running the program.
 
 ```js
-	function goGetLunch() {
-		alert("Close Computer");
-		alert("Stand up");
-		alert("Walk out the door")
-	};
+function goGetLunch() {
+	alert("Close Computer");
+	alert("Stand up");
+	alert("Walk out the door")
+};
 ```
-
 + Nothing happened. Why is that? We declared our function - which is like adding the `goGetLunch` function to the computer’s dictionary - but we didn’t actually tell the computer to execute the function.
+
+### Calling a function
+
 + We need call a function like this `goGetLunch();` to make it run.
 + This is the equivalent of telling the computer - do those steps in the `goGetLunch` function. Test it out.
 + What’s up with those parentheses? Those are like a placeholder for something called an argument. 
@@ -45,7 +55,7 @@ function goGetLunch() {
 
 ```js
 function goGetLunch(student) {
-  alert('hey, '+student);
+  alert('hey, ' + student);
   alert('close your computer');
   alert('stand up');
   alert('walk out the door');
@@ -61,9 +71,10 @@ goGetLunch("Jill");
 goGetLunch("Josie");
 ```
 
+### Return Values
+
 + There is one more VERY IMPORTANT thing about functions - return values.
-+ We are going to get some help explaining this concept from Cheddar the mouse.
-+ https://docs.google.com/a/flatironschool.com/presentation/d/1USGrpdEBhsYdP4b8LpVTabOHzMVKDLb0ZXen0Un3MPA/edit#slide=id.gacf625b88_0_11
++ We are going to get some help explaining this concept from [Cheddar the mouse](https://docs.google.com/a/flatironschool.com/presentation/d/1USGrpdEBhsYdP4b8LpVTabOHzMVKDLb0ZXen0Un3MPA/edit#slide=id.gacf625b88_0_11).
 + A function is kind of like placing a mouse in a box and that mouse will only perform the actions he was trained to do whenever you tell him to do a certain action.
 + Here is Cheddar in his box. We’ve trained him to doMath (addition really) with two variables x and y.
 
@@ -73,7 +84,7 @@ function doMath(x,y){
 }
 ```
 
-+ Notice there is a return statement. We need to include return in order to get something back from the function. In essence if we left of the return statement Cheddar might perform the math in his head but not give us the answer. By saying return we’re telling the function give us back the answer.
++ Notice there is a `return` statement. We need to include `return` in order to get something back from the function. In essence if we left of the return statement Cheddar might perform the math in his head but not give us the answer. By saying return we’re telling the function give us back the answer.
 + This is important because most of the time functions don’t live all alone by themselves they rely on other functions - so getting something back is very important. Don’t forget the return! 
 + So functions are pretty cool, huh? From now on ALL of your code should be wrapped in functions. 
 + Let’s get some practice with a lab. Everyone go to Learn.co and fork and clone the Teenager.js lab.
