@@ -21,8 +21,8 @@
         <td>9:15 - 10:30</td>
         <td>Arrays and Loops</td>
         <td> 
-          <a href="lectures/arrays">Lecture: Arrays</a></br>
-          <a href="lectures/loops">Lecture: Loops</a></br>
+          <a href="lectures/arrays/LECTURE.md">Lecture: Arrays</a></br>
+          <a href="lectures/loops/LECTURE.md">Lecture: Loops</a></br>
         </td>
     </tr>
     <tr>
