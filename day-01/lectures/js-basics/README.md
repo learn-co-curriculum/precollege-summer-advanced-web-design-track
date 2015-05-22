@@ -18,9 +18,41 @@
 
 
 ## Motivation
-We've seen how we can use jQuery to manipulate the elements of a website. Now we are going to learn about the technology that jQuery is built upon, JavaScript. JavaScript is a coding language that is supported by every browser and allows developers to write code that can do amazing things on any platform.
+JavaScript is a coding language that is supported by every browser and allows developers to write code that can do amazing things on any platform. It is supported by every browser out there, and allows developers to write code for any platform.
 
 ## Lesson Plan
+
+### Syntax Basics
+
+Welcome to JavaScript! First thing first, let's get the absolute basics down before you do anything else.
+
+**A simple variable declaration**
+
+```javascript
+var foo = 'hello world';
+```
+
+**Whitespace has no meaning outside of quotation marks**
+
+```javascript
+var foo =         'hello world';
+```
+
+**Parentheses indicate precedence**
+
+```javascript
+2 * 3 + 5;    // returns 11; multiplication happens first
+
+2 * (3 + 5);  // returns 16; addition happens first
+```
+
+**Tabs enhance readability, but have no special meaning**
+
+```javascript
+var foo = function() {
+    console.log('hello');
+};
+```
 
 ### Variables
 
@@ -77,11 +109,21 @@ We've seen how we can use jQuery to manipulate the elements of a website. Now we
 
 ### JavaScript data types
 
-+ Numbers: integers (whole numbers) like 2, floats (decimals) like 3.56789
-+ Strings: (text) like 'hello' or "hello", anything within quotes
-+ Boolean: true or false
-+ null (empty)
-+ undefined (not yet defined)
+JavaScript has a small set of primitive data types:
+  1. Number
+    - examples include: 1, 3.14, 0.13, 100, ...
+
+  2. String
+    - examples include:  "a", "World Wide Web"
+
+  3. Boolean
+    - true, false
+
+  4. Undefined
+    - refers to an absent or unknown value
+
+  5. Null
+    - this is a special keyword that means one of two things: no value or empty.  The difference from undefined is that when a variable is null, it is still defined
 
 Checking the data type:
 + `typeof` is a keyword that allows us to check the data type.
@@ -171,6 +213,7 @@ combine; //returns "105"
 |	x %= y | x = x % y | 
 
 ### Conditional Statements
+
 + Who here has done if-then statements in math class? This is a conditional statements
 + A conditional statement is a set of commands that executes *if* a specified condition is `true`. 
 + JavaScript supports two conditional statements: `if-else` and `switch`.
@@ -193,6 +236,8 @@ if (gasTank === 34) {
     console.log('Tank is not full');
 }
 ```
+
+### Syntax details
 
 + You can see that there are a few syntax details that you’ll need to pay attention to. What is syntax? Syntax is like the grammar of a programming language. There are certain conventions that you need to follow in order for your program to run properly.
 	+ JS requires that the conditions in your `if` statement be surrounded by `()`
