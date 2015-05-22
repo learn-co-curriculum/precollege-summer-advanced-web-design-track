@@ -9,28 +9,27 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
+        <td>9:00 - 9:30</td>
         <td> To-Do</td>
         <td>
-            <a href="https://docs.google.com/presentation/d/1NJ4YCU7Sj1H_KoMkF-s2aswr-b39JMNTWILe4bLTmNU/edit#slide=id.gafe5a1ee8_0_0">Day 4 Deck</a>
+            <a href="#">Day 4 Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/My-Little-Rainbow">ToDo: My Little Rainbow</a>
+            <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Simple-Calc">ToDo: Simple Calculator</a>
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:15</td>
-        <td> Lecture: Descendant and Pseudo Selectors </td>
+        <td>9:30 - 10:30</td>
+        <td>jQuery Inputs and User Data</td>
         <td>
-            <a href="lectures/css-selectors">Lecture: CSS Selectors</a>
+            <a href="#">Lecture: Input and User Data</a>
+            <br>
         </td>
     </tr>
     <tr>
-        <td>10:15 - 11:30</td>
-        <td> Selector Labs </td>
+        <td>10:30 - 11:30</td>
+        <td> User Input Calculator Lab </td>
         <td>
-        <a href="https://github.com/learn-co-curriculum/Css-Graffiti-Override">Lab: Graffiti Override</a>
-        </br>
-        <a href="https://github.com/learn-co-curriculum/css-issue-bot-9000">Lab: CSS Issue Bot 9000</a>
+            <a href="http://learn-co-curriculum.github.io/fe-jquery-user-input-calc/">Lab: User Input Calculator</a></br>
         </td>
     </tr>
     <tr>
@@ -41,24 +40,16 @@
     </tr>
     <tr>
         <td>12:30 - 1:00</td>
-        <td> User Experience Lecture: Typography </td>
+        <td> Improv </td>
         <td>
-            <a href="lectures/typography">Lecture: Typography</a>
         </td>
     </tr>
     <tr>
-        <td>1:00 - 1:45</td>
-        <td> Lecture: Grid System and Bootstrap </td>
+        <td>1:00 - 2:50</td>
+        <td> Lab: Task List </td>
         <td>
-            <a href="lectures/bootstrap">Lecture: Bootstrap</a></br>
-            <a href="https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough">Walkthrough: Bootstrap</a></br>
-        </td>
-    </tr>
-    <tr>
-        <td>1:45 - 2:50</td>
-        <td> Bootstrap Labs </td>
-        <td>
-            <a href="https://github.com/learn-co-curriculum/fe-bootstRAPPERS">Lab: BootstRAPPERS</a>
+            <a href="https://github.com/learn-co-curriculum/task-list">Lab: Task List</a></br>
+            <a href="https://github.com/learn-co-curriculum/User-Comments">Stretch Lab: User Comments</a></br>
         </td>
     </tr>
     <tr>
@@ -75,4 +66,6 @@
 + Understand what constitutes an *event*
 + Attach jQuery event handlers (like 'click') to HTML elements
 + Add callback functions to event handlers
-+ Add animations to HTML elements
++ Add animations to HTML elements using jQuery
++ Implement the jQuery UI library and other jQuery plugins
++ Parse through the jQuery documentation as a resource

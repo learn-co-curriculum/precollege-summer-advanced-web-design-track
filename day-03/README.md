@@ -12,24 +12,24 @@
         <td>9:00 - 9:15</td>
         <td> To Dos</td>
         <td>
-            <a href="https://docs.google.com/presentation/d/1fQJi5vcTuZMPRFLYZk_jALiKJwacFMZWD0TbNG4n-P4/edit#slide=id.gafe34ef86_0_53">Day 3 Deck</a>
+            <a href="#">Day 3 Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/css-kitten-wheelbarrow">To-Do: Kitten Wheelbarrow</a>
+            <a href="#">To-Do:</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/Dev-Tools-Super-Power">To-Do: Dev Tools Super Power</a>
         </td>
     </tr>
     <tr>
         <td>9:15 - 10:00</td>
-        <td> HTML5 Semantic Elements</td>
+        <td>jQuery</td>
         <td> 
-            <a href="lectures/html-5">Lecture: HTML 5</a>
+            <a href="#">Lecture: jQuery</a>
         </td>
     </tr>
     <tr>
         <td>10:00 - 11:30</td>
-        <td> CSS Layout</td>
-        <td> <a href="lectures/css-layout">Lecture: CSS Layout</a>
+        <td>jQuery Labs</td>
+        <td> 
+            <a href="https://github.com/learn-co-curriculum/Js-Atm-Function-Based">Lab: JS ATM</a>
         </td>
     </tr>
     <tr>
@@ -38,20 +38,13 @@
         <td> EAT FOOD </td>
     </tr>
     <tr>
-        <td>12:30 - 1:50</td>
-        <td> CSS LAYOUT LABS</td>
-        <td> <a href="https://github.com/learn-co-curriculum/Hs-Empire-State-Css-Challenge">Lab: Empire State</a>
-        <br>
-        <a href="https://github.com/learn-co-curriculum/hs-zetsy">Lab: Zetsy</a>
-        <br>
-        <a href="https://github.com/learn-co-curriculum/hs-zhw-shoes-layout"> Lab: ZHW Shoes</a>
+        <td>12:30 - 2:50</td>
+        <td> Group Project </td>
+        <td> 
+            <a href="https://github.com/learn-co-curriculum/hs-whac-a-mole">Whac-A-Mole</a>
          </td>
     </tr>
-    <tr>
-        <td>1:50 - 2:50</td>
-        <td> Independent Study</td>
-        <td> </td>
-    </tr>
+
     <tr>
         <td>2:50 - 3:00</td>
         <td> Wrap</td>
