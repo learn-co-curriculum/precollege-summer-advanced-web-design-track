@@ -166,5 +166,5 @@ Also, over half a BILLION sites use jQuery, and it was written by a 20 year old 
 
 ## Hints and Hurdles
 
-+ Passing in a new function as an argument to a jQuery function can feel wierd at first, but stick with the syntax and it'll start making sense quickly
++ Passing in a new function as an argument to a jQuery function can feel weird at first, but stick with the syntax and it'll start making sense quickly
 + Remember, you just need to know how to use CSS selectors to find HTML elements with jQuery
