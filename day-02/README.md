@@ -47,7 +47,8 @@
       <td>1:00 - 1:45</td>
       <td>Lecture: Functions</td>
       <td> 
-        <a href="#">Lecture: Functions</a></br>
+        <a href="lectures/functions/LECTURE.md">Lecture: Functions</a></br>
+        <a href="https://docs.google.com/presentation/d/1yoZyfQbvEfw53Pp03Bd_ziY8-Ai0jqCeQ0NKy4EAce8">Optional Slides: Functions</a></br>        
       </td>
     </tr>
     <tr>
