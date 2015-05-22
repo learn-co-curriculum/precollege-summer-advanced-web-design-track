@@ -87,16 +87,19 @@ Here is an example of the syntax for using a jQuery method
 
 #### Array Traversal
 
-+ Understanding how to iterate through a JS array with a for loop is important and useful, but there is an even easier way to iterate through an array using the jQuery .each method.
-+ We’re going to do a lot more jQuery review today but for now we’ll just walk through how to use .each like this:
-  + $(numbers).each(function(i, value){
-    +  alert(value+1);      
-  + });
-+ You can see that we start with a $ sign - which is the jQuery object and kind of how we say “Hey, jQuery! Got something for you.” And the thing that we have - numbers - goes in parentheses - kind of like an argument - and we are going to call .each on this numbers array. 
-+ .each does exactly what you think it would do - it takes out each item in the array and it does whatever we tell it to do with each one.
-+ The way that we tell it what to do is by feeding the .each method a function as an argument. You might remember this from Intro to Web Design class - arguments can be functions. We do this a lot with jQuery.
-+ You can see that the function that goes into .each has two arguments - the i stands for index and the value is the actual thing in the array. Go ahead and try using .each to iterate through your numbers array.
-+ Now try recreating your myFavorites function with jQuery .each.
++ Understanding how to iterate through a JS array with a for loop is important and useful, but there is an even easier way to iterate through an array using the jQuery `.each` method.
++ We’re going to do a lot more jQuery review today but for now we’ll just walk through how to use `.each` like this:
+
+```js
+$(numbers).each(function(i, value){
+  alert(value+1);      
+});
+```
+
++ You can see that we start with a `$` sign - which is the jQuery object and kind of how we say “Hey, jQuery! Got something for you.” And the thing that we have - numbers - goes in parentheses - kind of like an argument - and we are going to call .each on this numbers array. 
++ `.each` does exactly what you think it would do - it takes out each item in the array and it does whatever we tell it to do with each one.
++ The way that we tell it what to do is by feeding the `.each` method a function as an argument. You might remember this from Intro to Web Design class - arguments can be functions. We do this a lot with jQuery.
++ You can see that the function that goes into `.each` has two arguments - the `i` stands for index and the `value` is the actual thing in the array. Go ahead and try using `.each` to iterate through your numbers array.
 
 #### Notes
 
@@ -109,11 +112,14 @@ If you want to do something to your DOM jQuery probably has a method for it.
 + Or nifty cheatsheets like: [http://oscarotero.com/jquery/](http://oscarotero.com/jquery/)
 + and http://overapi.com/jquery
 
+### jQuery vs JavaScript
+
 *How will I know when to use jQuery versus core JavaScript?*
 + Firstly, jQuery is written in JavaScript so you can think of them as variations of the same thing instead of two separate things. To help answer this, jQuery methods are useful for many things; however there are certain fundamental parts of JavaScript that we still need in order to make flexible web applications. For example jQuery on its own does not have method for declaring variables, functions, if statements, or doing math…
 + This means that we can get a lot more mileage by integrating jQuery with core JavaScript. 
 + An example of JS and jQuery working together (demo in JSfiddle):
-```
+
+```js
   var x = 12, 
   y = 5,
   total = x + y;
@@ -125,17 +131,13 @@ If you want to do something to your DOM jQuery probably has a method for it.
   }
 ```
 
-You probably already remember how jQuery helps to simplify your life. Let’s dive right in to practicing some more.
-+ jQuery is a JavaScript library. *What is a library again?*
-+ A library is a  collection of code that extends the abilities and features of a core programming language, offering additional methods and often simplifying the process to build in that native language.
-+ *Why use jQuery?*
 + It just works everywhere! jQuery has been written to solve many cross browser issues that exist in core JavaScript.
 + Terse code. You can often write fewer lines of code than you would in using core JavaScript to accomplish the same thing. Hence jQuery’s slogan “Write Less Do More”.
 + Popularity. jQuery is, at the time of writing this, by far the most popular JavaScript library. That means more forums, more code sharing, and more plugins.
 + Easy extending methods. Coders can create and share their own custom plugins easily.
 + Familiar DOM selectors. If you already know CSS you’re a step ahead as jQuery uses all our familiar CSS selector statements.
 
-#### Setup in HTML
+### Setup in HTML
 
 Set up steps for using jQuery in your websites:
 + Include link to jQuery core library:
@@ -149,4 +151,13 @@ Set up steps for using jQuery in your websites:
   });
 ```
 
-We’re going to get A LOT more practice with this in the coming days. Today we’re going to wrap up with a fun little lab to help you build and publish your own chrome extension lab.
+## Conclusion / So What?
+
+jQuery brings out a lot of the functionality that is possible with JavaScript and makes it really easy. 
+
+Also, over half a BILLION sites use jQuery, and it was written by a 20 year old in his downtime in college.  
+
+## Hints and Hurdles
+
++ Passing in a new function as an argument to a jQuery function can feel wierd at first, but stick with the syntax and it'll start making sense quickly
++ Remember, you just need to know how to use CSS selectors to find HTML elements with jQuery
