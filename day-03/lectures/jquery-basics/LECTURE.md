@@ -2,11 +2,14 @@
 
 ## SWBATs
 
++ Understand the DOM (Document Object Model)
 + Understand how jQuery is just a *library* of JavaScript functions and that anything jQuery does you can do with plain JavaScript
++ Import and Initialize the jQuery library
++ Understand why you need to wait for the document to be ready
++ Use `$` and `jQuery` to access jQuery functionality
 + Use jQuery and CSS selectors to access HTML elements
 + Create, Read, Update, and Delete (CRUD) HTML elements using jQuery
-+ Attach jQuery event handlers (like 'click') to HTML elements
-+ Use jQuery to iterate through an array or collection of HTML elements
++ Iterate through a jQuery Collection
 
 ## Motivation /Why Should You Car?
 
@@ -46,6 +49,24 @@ What kind of things can we do with JS/jQuery + DOM.
 <script>window.jQuery || document.write('<script src="js/jquery-1.8.2.min.js"> <\/script>')</script>`
 
 > ProTip: Have your students navigate to `https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js` in their browser to see the actual jQuery file that is being used. Notice that this file has `.min`, that means its 'minified' js (all the whitespace has been removed to make the file smaller).  Now have them go to `https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js` - This file should make more sense!
+
+#### Using jQuery from your own JS code
+
+Set up steps for using jQuery in your websites:
++ Include link to jQuery core library:
+`<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>`
++ Link to your custom js file
+`<script src=”./js/app.js"></script>`
++ Start your app.js with document ready command:
+
+```js
+  $(document).ready(function() {
+    // your app code goes here.
+  });
+```
+
+#### $(document).ready()
+With jQuery you'll generally put code that uses HTML elements inside of the `$(document).ready()` method. This makes sure that the document has loaded all of the HTML before it tries to do anything with it. You can think of it as making sure your students have arrived to class before giving out directions. If no one has showed up and you start giving directions it won't be very effective. But if you wait till the students are seated and ready (`$(document).ready`) then they'll be able to follow instructions.
 
 #### Selectors
 
@@ -136,20 +157,6 @@ If you want to do something to your DOM jQuery probably has a method for it.
 + Popularity. jQuery is, at the time of writing this, by far the most popular JavaScript library. That means more forums, more code sharing, and more plugins.
 + Easy extending methods. Coders can create and share their own custom plugins easily.
 + Familiar DOM selectors. If you already know CSS you’re a step ahead as jQuery uses all our familiar CSS selector statements.
-
-### Setup in HTML
-
-Set up steps for using jQuery in your websites:
-+ Include link to jQuery core library:
-`<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>`
-+ Link to your custom js file
-`<script src=”./js/app.js"></script>`
-+ Start your app.js with document ready command:
-```
-  $(document).ready(function() {
-    // your app code goes here.
-  });
-```
 
 ## Conclusion / So What?
 

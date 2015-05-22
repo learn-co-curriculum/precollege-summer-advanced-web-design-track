@@ -66,6 +66,7 @@
 + Understand what constitutes an *event*
 + Attach jQuery event handlers (like 'click') to HTML elements
 + Add callback functions to event handlers
++ Use the `$(this)` selector in event handlers
 + Add animations to HTML elements using jQuery
 + Implement the jQuery UI library and other jQuery plugins
 + Parse through the jQuery documentation as a resource

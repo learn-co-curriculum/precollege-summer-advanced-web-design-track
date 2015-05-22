@@ -22,7 +22,7 @@
         <td>9:15 - 10:00</td>
         <td>jQuery</td>
         <td> 
-            <a href="#">Lecture: jQuery</a>
+            <a href="lectures/jquery-basics/LECTURE.md">Lecture: jQuery</a>
         </td>
     </tr>
     <tr>
@@ -61,6 +61,5 @@
 + Understand why you need to wait for the document to be ready
 + Use `$` and `jQuery` to access jQuery functionality
 + Use jQuery and CSS selectors to access HTML elements
-+ Use the `$(this)` selector
 + Create, Read, Update, and Delete (CRUD) HTML elements using jQuery
 + Iterate through a jQuery Collection
