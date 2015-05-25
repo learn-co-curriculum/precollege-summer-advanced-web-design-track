@@ -116,13 +116,40 @@ $(".the-button").click(function()
 
 Here the `$(this)` refers to the button that we selected with the jQuery selector `$(".the-button"), since we are inside of its event handler.  
 
-
 ### Animations
+
+jQuery also has support for basic animations. They work by selecting the element and calling the function on it with a `.` between the functions. 
+
+```js
+// Show the HTML element with id="panel"
+$("#panel").show(); 
+
+// Hide that same element
+$("#panel").hide();
+```
+
+ Here are some favorites:
+
++ `.show()` - Shows the selected element 
++ `.hide()` - Hide an element
++ `.fadeIn()` - Show an element with a slow fade
++ `.fadeOut()` - Fade out the element
+
+Check the [documentation](https://api.jquery.com/category/effects/) for more examples and explanations.
 
 ### jQuery UI
 
+[jQuery UI](https://jqueryui.com/) is another JavaScript library that is built on regular jQuery. It has support for more advanced animations and UI elements (things that look great and do cool stuff). To get a feel for what it can do check out some [demos](http://jqueryui.com/demos/).
+
 ### Using Documentation
+
+As with all coding the internet is your friend!!! Whenever you are stuck, try a search for your issue, or start reading the documentation.  It's amazing what's out there. Don't let it scare you!
 
 ## Conclusion / So What?
 
+jQuery and other libraries allow you to do amazingly complex stuff with a simple function call. Any developer worth their salt will want to make a website that responds to the user. jQuery events let you do that. 
+
 ## Hints and Hurdles
++ `$(this) can be confusing, remember it refers to the element that the event handler was called on
++ `$(document).ready() is just one big event that all your code should go inside
++ Event handlers take functions, anonymous or named, to call when that event happens
