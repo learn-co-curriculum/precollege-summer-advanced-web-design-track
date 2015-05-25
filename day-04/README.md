@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td>9:30 - 10:30</td>
-        <td>jQuery Inputs and User Data</td>
+        <td>Lecture: Advanced jQuery</td>
         <td>
-            <a href="#">Lecture: Input and User Data</a>
+            <a href="#">Lecture: Advanced jQuery (Events, Callbacks, Animations)</a>
             <br>
         </td>
     </tr>
