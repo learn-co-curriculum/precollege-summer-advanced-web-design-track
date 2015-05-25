@@ -11,7 +11,7 @@
 + Create, Read, Update, and Delete (CRUD) HTML elements using jQuery
 + Iterate through a jQuery Collection
 
-## Motivation /Why Should You Car?
+## Motivation /Why Should You Care?
 
 > jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 - jquery.com
