@@ -16,7 +16,11 @@
 > jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 - jquery.com
 
-In plainer English, jQuery is simply a library that makes things that are hard/annoying in JavaScript, like finding elements, really easy. It allows us to add/remove/change HTML and CSS with ease.
+jQuery is a powerful JavaScript library that can control all the magic you see on your page, from sliding menus to animations. [Beyonce](http://www.beyonce.com/) has some amazing jQuery on her page. Using Javascript and jQuery makes our pages interactive and awesome. Over half of all websites use jQuery, including 75% of the top 100 sites. That's half of ALL WEBSITES. IN. THE. WORLD. 
+
+![jQuery Stats](http://royal.pingdom.com/wp-content/uploads/2012/06/jquery-stats-580px.jpg)
+
+So where did the magical library of jQuery come from? It was developed by John Resig, a 20 year old college kid who wanted to make it easier for himself to use JavaScript. He then gave it away, for FREE, for anyone to use. 
 
 ## Lesson Plan
 
@@ -66,7 +70,15 @@ Set up steps for using jQuery in your websites:
 ```
 
 #### $(document).ready()
-With jQuery you'll generally put code that uses HTML elements inside of the `$(document).ready()` method. This makes sure that the document has loaded all of the HTML before it tries to do anything with it. You can think of it as making sure your students have arrived to class before giving out directions. If no one has showed up and you start giving directions it won't be very effective. But if you wait till the students are seated and ready (`$(document).ready`) then they'll be able to follow instructions.
+
+With jQuery you'll generally put code that uses HTML elements inside of the `$(document).ready()` method. This makes sure that the document has loaded all of the HTML before it tries to do anything with it. 
+
++ Our javascript files often get loaded before any other elements on our page. This can be dangerous if we want to access the DOM before it has loaded 
++ If we apply jQuery selectors before any DOM elements have loaded on our page then nothing will happen since those elements don't exist yet
++ Using Document Ready is the same as saying, "Okay, as soon as the page is done loading, apply all of our cool jQuery methods"
++ You can think of it as making sure your students (HTML elements) have arrived to class before giving out directions (jQuery). 
+  * If no one has showed up and you start giving directions it won't be very effective. 
+  * But if you wait till the students are seated and ready (`$(document).ready`) then they'll be able to follow instructions.
 
 #### Selectors
 
@@ -168,3 +180,4 @@ Also, over half a BILLION sites use jQuery, and it was written by a 20 year old 
 
 + Passing in a new function as an argument to a jQuery function can feel weird at first, but stick with the syntax and it'll start making sense quickly
 + Remember, you just need to know how to use CSS selectors to find HTML elements with jQuery
++ If it seems like your jQuery isn't hooked up to your elements make sure you wrote your code within the `$(document).ready()` method

@@ -22,7 +22,8 @@
         <td>9:15 - 10:00</td>
         <td>jQuery</td>
         <td> 
-            <a href="lectures/jquery-basics/LECTURE.md">Lecture: jQuery</a>
+            <a href="lectures/jquery-basics/LECTURE.md">Lecture: jQuery</a><br>
+            <a href="https://docs.google.com/presentation/d/1fmBG0vUTzwVdk-wgTpE0xmnC3o-CUby_G0h6cQYUxyo">Optional Slides: Introducing jQuery</a>
         </td>
     </tr>
     <tr>
