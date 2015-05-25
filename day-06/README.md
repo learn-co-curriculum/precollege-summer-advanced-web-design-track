@@ -21,7 +21,7 @@
         <td>9:15 - 10:15</td>
         <td>Hashes</td>
         <td>
-            Hashes Lecture
+            <a href="lectures/hashes/LECTURE.md">Lecture: Hashes</a>
         </td>
     </tr>
     <tr>
