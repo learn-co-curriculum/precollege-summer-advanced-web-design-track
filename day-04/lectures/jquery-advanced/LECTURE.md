@@ -150,6 +150,6 @@ As with all coding the internet is your friend!!! Whenever you are stuck, try a 
 jQuery and other libraries allow you to do amazingly complex stuff with a simple function call. Any developer worth their salt will want to make a website that responds to the user. jQuery events let you do that. 
 
 ## Hints and Hurdles
-+ `$(this) can be confusing, remember it refers to the element that the event handler was called on
-+ `$(document).ready() is just one big event that all your code should go inside
++ `$(this)` can be confusing, remember it refers to the element that the event handler was called on
++ `$(document).ready()` is just one big event that all your code should go inside
 + Event handlers take functions, anonymous or named, to call when that event happens
