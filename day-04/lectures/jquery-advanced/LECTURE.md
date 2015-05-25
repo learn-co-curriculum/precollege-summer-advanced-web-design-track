@@ -59,9 +59,9 @@ function()
 }
 ```
 
-This is called an *anonymous* function, and is our callback function. It has no name and will only be run when the event handler is triggered. JS/jQuery allows you to also passed in a named function.  Our code in this case could look like this:
+This is called an *anonymous* function, and is our callback function. It has no name and will only be run when the event handler is triggered. JS/jQuery allows you to also pass in a named function.  Our code in this case could look like this:
 
-js```
+```js
 // Define the function
 function houseMusic()
 {
@@ -75,6 +75,8 @@ $(".the-button").click(houseMusic);
 A trick to notice here is that when we pass in the function `houseMusic` we DO NOT include the parenthesis `()`, because we are not calling the function at this point. We are only telling the event handler where to find it.
 
 ### Other Event handlers
+
+
 
 ### `$(this)` inside Events
 
