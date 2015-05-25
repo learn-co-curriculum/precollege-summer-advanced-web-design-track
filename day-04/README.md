@@ -21,7 +21,7 @@
         <td>9:30 - 10:30</td>
         <td>Lecture: Advanced jQuery</td>
         <td>
-            <a href="#">Lecture: Advanced jQuery (Events, Callbacks, Animations)</a>
+            <a href="lectures/jquery-advanced/LECTURE.md">Lecture: Advanced jQuery (Events, Callbacks, Animations)</a>
             <br>
         </td>
     </tr>
