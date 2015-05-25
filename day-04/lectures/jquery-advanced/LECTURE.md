@@ -76,7 +76,14 @@ A trick to notice here is that when we pass in the function `houseMusic` we DO N
 
 ### Other Event handlers
 
+jQuery can respond to a wide variety of Events which you should read about in the documentation. Some popular ones are:
 
++ Mouse clicks
++ Page load finishing
++ Moving the mouse over an element (often used for menu highlights)
++ Submitting an HTML form
++ Pressing the keyboard buttons
++ And [MORE](https://api.jquery.com/category/events/)!! 
 
 ### `$(this)` inside Events
 
