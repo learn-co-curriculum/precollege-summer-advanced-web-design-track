@@ -85,7 +85,37 @@ jQuery can respond to a wide variety of Events which you should read about in th
 + Pressing the keyboard buttons
 + And [MORE](https://api.jquery.com/category/events/)!! 
 
-### `$(this)` inside Events
+### Document Ready as an Event
+
+If you remember our `$(document).ready()` function, you can now see that it is just an event handler responding to the jQuery object of `$(document)` firing off the Event that it's `ready()`.
+
+```js
+$( document ).ready(function() {
+  // Here are all the functions that 
+  // will be run when the document is ready.
+});
+```
+
+### `$(this)` inside Event callbacks
+
+If you want to do something to the element that fired an event (fade out the button you just clicked) `$(this)` allows you to easily access that element.
+
+For Example:
+
+```js
+$(".the-button").click(function()
+{
+  alert("House Music!! Boots, and Cats, and Boots, and Cats");
+
+  // I don't think they can handle more House Music
+  // Let's fade out the element they clicked on.
+
+  $(this).fadeOut();
+});
+```
+
+Here the `$(this)` refers to the button that we selected with the jQuery selector `$(".the-button"), since we are inside of its event handler.  
+
 
 ### Animations
 
