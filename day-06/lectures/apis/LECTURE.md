@@ -26,9 +26,9 @@ There are TONS of cool ways to connect other applications to extend our app's fu
 + JSON is short for JavaScript Object Notation - it's basically a way of packaging data and sending it out to other places. 
 + It's essentially just a giant string that we can parse through. 
 + Take a look at this example: http://api.giphy.com/v1/gifs/search?q=fat+cat&api_key=dc6zaTOxFJmzC *Teacher - open have this link open in Google Chrome. Click the "View Source" button to see without the JSON viewer. 
-+ So this is just a giant string, but does it remind you of anything? 
++ This is basically just a giant string, but does it remind you of anything? 
 	+ It has curly braces
-	+ There seem to be key value pairs like this "key": "value", 
+	+ There seem to be key value pairs like this "key": "value" 
 	+ Yep, we can treat this like a hash!
 + *Go back to the JSON viewer view* 
 + This Google Chrome Extension formats the JSON object nicely for us to view. 
@@ -70,10 +70,8 @@ See if you can identify the use of APIs next time you use the internet.
 + Every API is a little bit different, but in general we can follow a process for connecting to them. 
 
 1. Read the documentation. This is the most important part. Since every API is different, you need to get to know the specific functionality and figure out how to integrate the API.
-2. Sign up for an account. 
-3. Register your app/get an "API Key"
-4. Setup an "API call" - going to get the data
-5. Deciding what to do when you get the data back
+2. Setup an "API call" - going to get the data
+3. Deciding what to do when you get the data back
 
 + For the most part, the APIs we use will give us back JSON objects that we can use to manipulate our DOM. We can make API calls using jQuery's [getJSON method](http://api.jquery.com/jquery.getjson/)
 + Here's an example: 
@@ -86,8 +84,11 @@ $.getJSON("http://api.giphy.com/v1/gifs/search?q=fat+cat&api_key=dc6zaTOxFJmzC",
 	+ First, we have our beloved `$` to say "Hey, jQuery, wake up!"
 	+ We then call the .getJSON method - a special method which requests and parses a JSON object for us.
 	+ getJSON takes two arguments - the first is the URL where it's getting the JSON from. In this case, we're using the Giphy API URL and appending our API key and search keywords. 
-	+ The second argument is our callback function - this is what runs when we get our response back. We "pass in" our response as an argument. 
-	+ Inside of our callback function, we can do whatever we want with the data we get back. Any jQuery methods could be valid here, such as append HTML to the page
+		+ Sometimes, other developers want to keep track of who's using their API. One way to do this is to give everyone who uses it an API Key - it's just a token that unlocks the API for us. 
+		+ Every API handles this differently, so it's important to read the documentation before using an API to figure out the best way to access it. 
+	+ So our first argument is the address of the data. The second argument is our callback function - this is what runs when we get our response back. We "pass in" our response as an argument. 
+		+ This is basically telling jQuery, "okay, you're going to get a response, and when you do, here's what I want you to do with it."
+	+ Inside of our callback function, we can do whatever we want with the data we get back. Any jQuery methods could be used here, such as appending HTML to the page or changing the location of a link or image. 
 + For example, we could have our image display on a page by adding an image tag and updating the URL. 
 
 ```js
