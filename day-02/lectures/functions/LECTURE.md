@@ -118,9 +118,9 @@ BUT it’s not really that helpful because JS will only know that the variable e
 Another thing that is important to understand about JS functions is variable scope. 
 	
 + When you declare a variable outside of a function it will also be available inside of the function. For example (open up the console in Chrome and paste this in):
-+ `var milkType = "whole milk"`;
 
 ```js
+var milkType = "whole milk"
 function isWholeMilk() {
   if (milkType === "whole milk”) {
       return true;
