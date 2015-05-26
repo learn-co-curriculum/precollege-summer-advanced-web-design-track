@@ -31,6 +31,7 @@
         <td> 
           <a href="https://github.com/learn-co-curriculum/hs-teenager.js">Lab: Teenager JS</a></br>
             <a href="https://github.com/learn-co-curriculum/Js-Fizzbuzz">Lab: FizzBuzz</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-js-cartoon-collections">Lab: Cartoon Collections</a></br>
         </td>
     </tr>
     <tr>
