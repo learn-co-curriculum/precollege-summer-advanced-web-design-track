@@ -1,3 +1,5 @@
+# Functions
+
 ## SWABATs 
 
 + Understand N.I.C.O (Name, Input, Code, Output)
@@ -74,7 +76,7 @@ goGetLunch("Josie");
 ### Return Values
 
 + There is one more VERY IMPORTANT thing about functions - return values.
-+ We are going to get some help explaining this concept from [Cheddar the mouse](https://docs.google.com/a/flatironschool.com/presentation/d/1USGrpdEBhsYdP4b8LpVTabOHzMVKDLb0ZXen0Un3MPA/edit#slide=id.gacf625b88_0_11).
++ We are going to get some help explaining this concept from [Cheddar the mouse](https://docs.google.com/presentation/d/1yoZyfQbvEfw53Pp03Bd_ziY8-Ai0jqCeQ0NKy4EAce8/edit#slide=id.p60).
 + A function is kind of like placing a mouse in a box and that mouse will only perform the actions he was trained to do whenever you tell him to do a certain action.
 + Here is Cheddar in his box. We’ve trained him to `doMath` (addition really) with two variables x and y.
 
@@ -116,33 +118,39 @@ BUT it’s not really that helpful because JS will only know that the variable e
 Another thing that is important to understand about JS functions is variable scope. 
 	
 + When you declare a variable outside of a function it will also be available inside of the function. For example (open up the console in Chrome and paste this in):
-+ var milkType = "whole milk";
-+ function isWholeMilk() {
-      + if (milkType === "whole milk”) {
-          + return true;
-      + } else {
-         + return false;         
-      + }
-+ }
-+ If I run isWholeMilk(); we’ll get back true. The function isWholeMilk has access to the variable milkType that was declared outside of the function.
+
+```js
+var milkType = "whole milk"
+function isWholeMilk() {
+  if (milkType === "whole milk”) {
+      return true;
+  } else {
+      return false;
+  }
+}
+```
++ If I run `isWholeMilk();` we’ll get back true. The function `isWholeMilk` has access to the variable milkType that was declared outside of the function.
 + BUT if you declare a variable inside of a function it will only be available inside of the function.
 + Here is an example:
-+ function milkTheCow() {	
-      + var bessyCow = 'milked'; //local var
-      + return bessyCow;
-+ }
-+ If we type bessyCow we’ll get back undefined. We are trying to access bessyCow from outside of the function and she only exists inside of the function.
-+ The only way you can get access to bessyCow is if you run the function. Then bessyCow will be returned - like when Cheddar tossed out the answer to those math equations - and we’ll be able to see the value that way.
+```js
+function milkTheCow() {	
+  var bessyCow = 'milked'; //local var
+  return bessyCow;
+}
+```
++ If we type `bessyCow` we’ll get back undefined. We are trying to access `bessyCow` from outside of the function and she only exists inside of the function.
++ The only way you can get access to `bessyCow` is if you run the function. Then `bessyCow` will be returned - like when Cheddar tossed out the answer to those math equations - and we’ll be able to see the value that way.
 + One last brain teaser for you guys. 
-+ var tiger = 2,
-      + lion = 3; \\we can declare two variables at the same time like this
++ `var tiger = 2,lion = 3; \\we can declare two variables at the same time like this`
 	
-+ function countAnimals(giraffe) {
-      + tiger = tiger - 1;
-      + var total = lion + tiger + giraffe;
-      + return total;	
-+ }
-+ What will the total equal (what value will be returned when I run countAnimals(3);
+```js
+function countAnimals(giraffe) {
+      tiger = tiger - 1;
+      var total = lion + tiger + giraffe;
+      return total;	
+}
+```
++ What will the total equal (what value will be returned when I run `countAnimals(3);`
 + *Variable scope* - and not being able to access variables outside of a function - seems annoying but it’s really important and helpful because you will know exactly what your variable is equal to - it can only be set from within your function so it can only be equal to the value that you set within your function.
 
 ## Conclusion / So What?
