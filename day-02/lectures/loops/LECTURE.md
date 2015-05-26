@@ -6,6 +6,9 @@
 + Iterate over arrays using for loops and while loops
 + Convert repeatable tasks into loops
 
+## Motivation/Why Should I Care?
++ We've already seen how using Arrays helps us keep track of data in our programs, but what can we do with it? Using loops let's us manipulate our data in powerful ways. 
+
 ## Key Points
 + Loops let you repeat a bit of code until an *exit condition* is met
 + A loops *exit condition* is a boolean statement that is evaluated during each loop, if it's false, the loop stops
@@ -104,4 +107,4 @@ Let’s do one more practice lab with iteration and strings instead of numbers.
 + Everyone create an array of your top 5 favorites movies.
 + Now create a function called `myFavorites()`
 + This function should take in an array of favorites and for each favorite it should alert to the screen something like “The Shawshank Redemption? That is my favorite too!”
-+ Now create a new array of your favorite songs. Try calling the `myFavorites()` function with your favorite songs array.a
++ Now create a new array of your favorite songs. Try calling the `myFavorites()` function with your favorite songs array.
