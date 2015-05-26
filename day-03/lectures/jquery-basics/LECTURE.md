@@ -125,14 +125,15 @@ Here is an example of the syntax for using a jQuery method
 
 ```js
 $(numbers).each(function(i, value){
-  alert(value+1);      
+  alert(value+1); 
 });
 ```
 
 + You can see that we start with a `$` sign - which is the jQuery object and kind of how we say “Hey, jQuery! Got something for you.” And the thing that we have - numbers - goes in parentheses - kind of like an argument - and we are going to call .each on this numbers array. 
 + `.each` does exactly what you think it would do - it takes out each item in the array and it does whatever we tell it to do with each one.
 + The way that we tell it what to do is by feeding the `.each` method a function as an argument. You might remember this from Intro to Web Design class - arguments can be functions. We do this a lot with jQuery.
-+ You can see that the function that goes into `.each` has two arguments - the `i` stands for index and the `value` is the actual thing in the array. Go ahead and try using `.each` to iterate through your numbers array.
++ You can see that the function that goes into `.each` has two arguments + The `i` stands for index and the `value` is the actual thing in the array. 
++ Go ahead and try using `.each` to iterate through your numbers array.
 
 #### Notes
 
