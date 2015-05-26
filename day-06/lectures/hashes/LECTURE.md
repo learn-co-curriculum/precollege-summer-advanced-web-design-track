@@ -10,7 +10,7 @@
 
 ## Motivation / Why Should You Care?
 
-Hashes are how the Web talks to itself. Pretty much all the data you see is passed around in a format called JSON which is just a big hash. Hashes allow developers to store and access data without worrying about its order.  
+Hashes are how the Web talks to itself. Pretty much all the data you see is passed around in a format called JSON which is just a big hash. Hashes allow developers to store and access data without worrying about its order. 
 
 ## Lesson Plan
 
@@ -30,7 +30,7 @@ This syntax defines a Hash and assigns it to a variable called `ancientMystery` 
 |-------	|--------	|
 | "dog" 	| "woof" 	|
 | "cat" 	| "meow" 	|
-| "fox" 	| "????"  	|  
+| "fox" 	| "????"  	| 
 
 Notice that the list of Key-Value pairs is contained between `{}` curly braces, has a `:` between the Key and Value, and has a `,` between each Key-Value pair.
 
@@ -61,7 +61,7 @@ Our Hash now looks like this:
 |-------	|--------	|
 | "dog" 	| "woof" 	|
 | "cat" 	| "meow" 	|
-| "fox" 	| "ring-ding-ding"  	|  
+| "fox" 	| "ring-ding-ding"  	|
 
 ### Delete a Key
 
