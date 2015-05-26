@@ -129,7 +129,7 @@ function isWholeMilk() {
   }
 }
 ```
-+ If I run isWholeMilk(); we’ll get back true. The function isWholeMilk has access to the variable milkType that was declared outside of the function.
++ If I run `isWholeMilk();` we’ll get back true. The function `isWholeMilk` has access to the variable milkType that was declared outside of the function.
 + BUT if you declare a variable inside of a function it will only be available inside of the function.
 + Here is an example:
 ```js
@@ -138,8 +138,8 @@ function milkTheCow() {
   return bessyCow;
 }
 ```
-+ If we type bessyCow we’ll get back undefined. We are trying to access bessyCow from outside of the function and she only exists inside of the function.
-+ The only way you can get access to bessyCow is if you run the function. Then bessyCow will be returned - like when Cheddar tossed out the answer to those math equations - and we’ll be able to see the value that way.
++ If we type `bessyCow` we’ll get back undefined. We are trying to access `bessyCow` from outside of the function and she only exists inside of the function.
++ The only way you can get access to `bessyCow` is if you run the function. Then `bessyCow` will be returned - like when Cheddar tossed out the answer to those math equations - and we’ll be able to see the value that way.
 + One last brain teaser for you guys. 
 + `var tiger = 2,lion = 3; \\we can declare two variables at the same time like this`
 	
