@@ -119,7 +119,8 @@ Another thing that is important to understand about JS functions is variable sco
 	
 + When you declare a variable outside of a function it will also be available inside of the function. For example (open up the console in Chrome and paste this in):
 + `var milkType = "whole milk"`;
-+ ```js
+
+```js
 function isWholeMilk() {
   if (milkType === "whole milk”) {
       return true;
