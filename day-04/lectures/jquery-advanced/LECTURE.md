@@ -32,7 +32,7 @@ Suppose we have HTML that looks like this
 <html>
   <head>...</head>
   <body>
-    <button class=".the-button">Push the Button</button>
+    <button class="the-button">Push the Button</button>
   </body>
 </html>
 ```
@@ -114,7 +114,7 @@ $(".the-button").click(function()
 });
 ```
 
-Here the `$(this)` refers to the button that we selected with the jQuery selector `$(".the-button"), since we are inside of its event handler.  
+Here the `$(this)` refers to the button that we selected with the jQuery selector `$(".the-button"), since we are inside of its event handler.
 
 ### Animations
 
