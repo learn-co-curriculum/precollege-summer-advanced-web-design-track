@@ -25,17 +25,10 @@
         </td>
     </tr>
     <tr>
-        <td>10:15 - 10:45</td>
-        <td>JSON</td>
+        <td>10:15 - 11:30</td>
+        <td>JSON and APIs</td>
         <td>
-            JSON Lecture
-        </td>
-    </tr>
-    <tr>
-        <td>10:45 - 10:30</td>
-        <td>APIs</td>
-        <td>
-            API Lecture
+            <a href="lectures/apis/">Lecture: JSON and APIs</a>
         </td>
     </tr>
     <tr>
