@@ -14,3 +14,12 @@
 	* Conditional Statements (If/Else)
 + JavaScript Arrays
 + JavaScript Loops
++ JavaScript Functions
++ DOM (Document Object Model)
++ jQuery Basics
+	* `$(document).ready()`
+	* Selectors
++ jQuery Advanced
+	* Events
+	* `$(this)`
+	* Callbacks
