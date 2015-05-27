@@ -12,7 +12,7 @@
         <td>9:00 - 9:15</td>
         <td> To Dos</td>
         <td>
-        <a href="#">Day 2 Deck</a></br>
+        <a href="https://docs.google.com/presentation/d/1EEdJuHPJBXX_isPQqWB-Rg4V7Cp4C0oWHpQmNQfQdUY/edit">Day 2 Deck</a></br>
         <a href="https://github.com/learn-co-curriculum/js-donut-lab">To Do: Donut Lab</a>
         <br>
         </td>
