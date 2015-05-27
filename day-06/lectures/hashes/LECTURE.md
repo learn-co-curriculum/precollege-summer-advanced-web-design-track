@@ -36,7 +36,7 @@ Notice that the list of Key-Value pairs is contained between `{}` curly braces, 
 
 ### Access a Value of a Hash
 
-Accessing the Value associated with a key is very similiar to Array syntax
+Accessing the Value associated with a key is very similar to Array syntax
 
 To discover what a dog says we could type:
 
