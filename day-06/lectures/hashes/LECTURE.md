@@ -30,7 +30,7 @@ This syntax defines a Hash and assigns it to a variable called `ancientMystery` 
 |-------	|--------	|
 | "dog" 	| "woof" 	|
 | "cat" 	| "meow" 	|
-| "fox" 	| "????"  	| 
+| "fox" 	| "????"  | 
 
 Notice that the list of Key-Value pairs is contained between `{}` curly braces, has a `:` between the Key and Value, and has a `,` between each Key-Value pair.
 

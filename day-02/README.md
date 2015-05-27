@@ -56,7 +56,7 @@
       <td>1:45 - 2:50</td>
       <td>Chrome Extension Project</td>
       <td> 
-    
+        <a href="https://github.com/learn-co-curriculum/hs-chrome-extension-tutorial">Chrome Extension Project</a>
       </td>
     </tr>
     <tr>
