@@ -31,7 +31,3 @@
         </td>
     </tr>
 </table>
-
-## Resources
-
-## Lectures
