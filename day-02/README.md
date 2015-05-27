@@ -29,8 +29,7 @@
         <td>10:30 - 11:30</td>
         <td>Labs: Arrays and Loops</td>
         <td> 
-          <a href="https://github.com/learn-co-curriculum/hs-teenager.js">Lab: Teenager JS</a></br>
-            <a href="https://github.com/learn-co-curriculum/Js-Fizzbuzz">Lab: FizzBuzz</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-js-arrays-mini-lab">Lab: Mini Arrays</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-js-cartoon-collections">Lab: Cartoon Collections</a></br>
         </td>
     </tr>

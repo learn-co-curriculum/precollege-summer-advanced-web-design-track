@@ -89,7 +89,7 @@ Let’s walk through each part of this.
 + *Why is this the ending condition for our machine? What is numbers.length equal to? Does numbers[5] exist?* 
   + No it doesn’t. We want to make sure we stop our machine before it starts requesting indices that don’t exist. Or in other words - keep going ONLY while `i` is less than the length of the array (5 in this case). 
 + The last condition of the for loop are instructions for how to keep our machine moving. Here we are saying - at the end of each iteration in the loop add one to var `i`. 
-+ *What would happen if we didn’t have this condition set?*   
++ *What would happen if we didn’t have this condition set?* 
   + We wouldn’t get anywhere! We wouldn’t be iterating at all, because we would just keep trying to change numbers[0] over and over again in an infinite loop.
 
 ### Practice
