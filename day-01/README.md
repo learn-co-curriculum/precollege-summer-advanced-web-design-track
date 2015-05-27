@@ -40,7 +40,9 @@
     <tr>
         <td>12:30 - 1:00</td>
         <td> Improv </td>
-        <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
+        </td>
     </tr>
     <tr>
         <td>1:00 - 2:20</td>
