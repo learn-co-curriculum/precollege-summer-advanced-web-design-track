@@ -55,7 +55,7 @@
 	* Interactive Comic
 
 ### Conclusion/So What?
-+ From this point, you an hour to come up with your ideas and get them approved by a teacher. After that, you'll have about 17 hours over the next three and a half days to build out your projects - keep your timeframe in mind when choosing what to build! 
++ From this point, you hav about an hour to come up with your ideas and get them approved by a teacher. After that, you'll have about 17 hours over the next three and a half days to build out your projects - keep your timeframe in mind when choosing what to build! 
 
 
 ### Hints and Hurdles
