@@ -12,7 +12,7 @@
 + Utilize string methods
 + Execute string concatenate
 + Understand datatype conversion and why/when to use it
-+ Use different types of dialogue boxes like alert and prompt
++ Use different types of dialogue boxes like alert, prompt, and confirm
 + Understand comparison and logic operators
 + Use conditional statements to control program flow (if/else and switch)
 
