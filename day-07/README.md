@@ -14,7 +14,7 @@
         <td>
             <a href="https://drive.google.com/open?id=1-cRC35PXBa51VwCT0JhjBTL0kn2xTKGf5rJ0cMmfEpY&authuser=0">Day 7 Deck</a>
             <br>
-            <a href="lectures/intro-to-project-mode">Lecture: Intro to Project Mode</a>
+            <a href="lectures/final-project">Lecture: Intro to Project Mode</a>
         </td>
     </tr>
     <tr>
