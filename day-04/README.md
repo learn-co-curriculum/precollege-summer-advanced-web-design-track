@@ -12,7 +12,7 @@
         <td>9:00 - 9:30</td>
         <td> To-Do</td>
         <td>
-            <a href="#">Day 4 Deck</a>
+            <a href="https://drive.google.com/open?id=1DUnKyhyq6khMZB20nX_k_BwpR6R4Aosli6hsgfEbPQQ&authuser=0">Day 4 Deck</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Simple-Calc">ToDo: Simple Calculator</a>
         </td>
