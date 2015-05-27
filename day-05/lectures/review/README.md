@@ -4,7 +4,7 @@
 
 + HTML
 + CSS
-+ JavaScript
++ JavaScript Basics
 	* Console
 	* Variables
 	* Datatypes
@@ -12,3 +12,5 @@
 	* Dialog's and Alerts
 	* Logic Operators
 	* Conditional Statements (If/Else)
++ JavaScript Arrays
++ JavaScript Loops
