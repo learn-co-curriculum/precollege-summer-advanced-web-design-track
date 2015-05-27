@@ -33,7 +33,7 @@
         </td>
     </tr>
     <tr>
-        <td>10:30 - 11:30</td>
+        <td>10:30 - 11:00</td>
         <td>UX Review</td>
         <td>
             <a href="lectures/ux">Lecture: UX, Wireframing, Storyboarding</a>
@@ -41,23 +41,22 @@
     </tr>
     <tr>
     <tr>
-        <td>11:30 - 12:30</td>
-        <td> Lunch </td>
+        <td>11:00 - 2:00</td>
+        <td> Group Project </td>
         <td>
+            The students should have lunch whenever they'd like
         </td>
     </tr>
     <tr>
-        <td>12:30 - 2:50</td>
-        <td> Project Mode </td>
+        <td>2:00 - 2:50</td>
+        <td> Group Presentations </td>
         <td>
-            
         </td>
     </tr>
     <tr>
         <td>2:50 - 3:00</td>
         <td> Wrap Up </td>
         <td>
-            
         </td>
     </tr>
 </table>
