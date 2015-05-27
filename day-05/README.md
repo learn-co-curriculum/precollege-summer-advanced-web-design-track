@@ -18,10 +18,39 @@
         </td>
     </tr>
     <tr>
+        <td>9:15 - 10:00</td>
+        <td>Week Review</td>
+        <td>
+            <a href="lectures/review">Lecture Notes: Review</a>
+        </td>
+    </tr>
+    <tr>
+    <tr>
+        <td>10:00 - 10:30</td>
+        <td>Project Review</td>
+        <td>
+            <a href="lectures/review">Lecture Notes: Review</a>
+        </td>
+    </tr>
+    <tr>
+        <td>10:30 - 11:30</td>
+        <td>UX Review</td>
+        <td>
+            <a href="lectures/UX">Lecture: UX, Wireframing, Storyboarding</a>
+        </td>
+    </tr>
+    <tr>
     <tr>
         <td>11:30 - 12:30</td>
         <td> Lunch </td>
         <td>
+        </td>
+    </tr>
+    <tr>
+        <td>12:30 - 2:50</td>
+        <td> Project Mode </td>
+        <td>
+            
         </td>
     </tr>
     <tr>
