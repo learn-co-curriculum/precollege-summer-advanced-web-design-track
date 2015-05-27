@@ -12,7 +12,7 @@
         <td>9:00 - 9:15</td>
         <td> To Dos</td>
         <td>
-            <a href="#">Day 3 Deck</a>
+            <a href="https://drive.google.com/open?id=1ikZMX0TpPQxydHczwmAmH9XcHeJbA0L2TFAIHy4LpzE&authuser=0">Day 3 Deck</a>
             <br>
             <a href="#">To-Do:</a>
             <br>

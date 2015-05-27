@@ -12,7 +12,7 @@
         <td>9:00 - 10:00</td>
         <td> Welcome and Intros</td>
         <td>
-            <a href="#">Day 1 Deck</a>
+            <a href="https://docs.google.com/presentation/d/1fcFdmt0ht1lLyrCpH8edRzUxHxR30W16_mqizkl2rGE/edit#slide=id.p">Day 1 Deck</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a>
         </td>
