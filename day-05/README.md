@@ -21,22 +21,22 @@
         <td>9:15 - 10:00</td>
         <td>Week Review</td>
         <td>
-            <a href="lectures/review">Lecture Notes: Review</a>
+            <a href="lectures/review">Lecture Notes: Week Review</a>
         </td>
     </tr>
     <tr>
     <tr>
         <td>10:00 - 10:30</td>
-        <td>Project Review</td>
+        <td>Project Introduction</td>
         <td>
-            <a href="lectures/review">Lecture Notes: Review</a>
+            <a href="lectures/project">Lecture Notes: Project</a>
         </td>
     </tr>
     <tr>
         <td>10:30 - 11:30</td>
         <td>UX Review</td>
         <td>
-            <a href="lectures/UX">Lecture: UX, Wireframing, Storyboarding</a>
+            <a href="lectures/ux">Lecture: UX, Wireframing, Storyboarding</a>
         </td>
     </tr>
     <tr>
