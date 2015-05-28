@@ -9,7 +9,14 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 3:00</td>
+        <td>9:00 - 9:45</td>
+        <td>Mini-Lecture: JS Frameworks</td>
+        <td>
+            <a href="js-frameworks">Mini-Lecture: JS Frameworks</a>
+        </td>
+    </tr>
+    <tr>
+        <td>9:45 - 3:00</td>
         <td>Project Mode!</td>
         <td>
             <a href="https://drive.google.com/open?id=1i9KaL5iph3Bslu48ZTJSiB82-FrLijqgPVmM2RdAdbs&authuser=0">Day 9 Deck</a>

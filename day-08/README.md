@@ -12,7 +12,7 @@
         <td>9:00 - 9:45</td>
         <td>Mini-Lecture: Cool JS Libraries</td>
         <td>
-            <a href="js-libraries">Lecture: Intro to Project Mode</a>
+            <a href="js-libraries">Mini-Lecture: Cool JS Libraries</a>
         </td>
     </tr>
     <tr>
