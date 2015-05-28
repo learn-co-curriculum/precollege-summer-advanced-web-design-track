@@ -22,7 +22,9 @@
         <td>Arrays and Loops</td>
         <td> 
           <a href="lectures/arrays/LECTURE.md">Lecture: Arrays</a></br>
+          <a href="lectures/arrays/">Lecture Notes: Arrays</a></br>
           <a href="lectures/loops/LECTURE.md">Lecture: Loops</a></br>
+          <a href="lectures/loops/">Lecture Notes: Loops</a></br>
         </td>
     </tr>
     <tr>
@@ -48,6 +50,7 @@
       <td>Lecture: Functions</td>
       <td> 
         <a href="lectures/functions/LECTURE.md">Lecture: Functions</a></br>
+        <a href="lectures/functions">Lecture Notes: Functions</a></br>
         <a href="https://docs.google.com/presentation/d/1yoZyfQbvEfw53Pp03Bd_ziY8-Ai0jqCeQ0NKy4EAce8">Optional Slides: Functions</a></br>        
       </td>
     </tr>
