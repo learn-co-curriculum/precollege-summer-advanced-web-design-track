@@ -12,7 +12,11 @@
 + For the next four days, we'll be working almost full time on our final projects. 
 + These will be real working web applications that you'll be able to share with your family and friends. 
 + You will be responsible for building these projects from the ground up. 
-+ What makes a good project? 
++ What makes a good project?
++ We have about eighteen hours of total time to work on our projects. Think about how you want to spend your time. 
+	+ You could build out one more complex project
+	+ You could also choose to build out two smaller projects. 
++ It's up to you, but make sure to set realistic goals and expectations for yourself and your teammates. 
 
 ### Examples
 
