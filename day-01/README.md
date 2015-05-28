@@ -25,10 +25,18 @@
         </td>
     </tr>
     <tr>
-        <td>10:20 - 11:30</td>
+        <td>10:20 - 11:00</td>
         <td>Lecture: HTML and CSS review</td>
         <td> 
             <a href="lectures/html-css-review">Lecture: HTML and CSS review</a>
+            </br>
+        </td>
+    </tr>
+    <tr>
+        <td>11:00 - 11:30</td>
+        <td>Setup Github Pages</td>
+        <td> 
+            <a href="#">Setup Github Pages</a>
             </br>
         </td>
     </tr>
@@ -54,17 +62,9 @@
     </tr>
     <tr>
         <td>2:20 - 2:50</td>
-        <td>Project: Deploy on Day 1 </td>
+        <td>Lab: Teenager</td>
         <td> 
-            <a href="#">Lab: Deploy on Day 1</a></br>
-            If students finish early, have them work on  labs<br>
-        </td>
-    </tr>
-    <tr>
-        <td>2:20 - 2:50</td>
-        <td> Labs </td>
-        <td>
-           Practice Writing Functions
+            <a href="https://github.com/learn-co-curriculum/hs-teenager.js">Lab: Teenager JS</a></br>
         </td>
     </tr>
     <tr>

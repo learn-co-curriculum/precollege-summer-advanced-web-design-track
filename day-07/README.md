@@ -9,6 +9,13 @@
         <td>Resources</td>
     </tr>
     <tr>
+        <td>9:00 - 9:15</td>
+        <td>To-Do</td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/hs-gif-generator">To-Do: Gif Generator</a>
+        </td>
+    </tr>
+    <tr>
         <td>9:00 - 11:30</td>
         <td>Project Ideation</td>
         <td>

@@ -80,7 +80,7 @@ var foo = function() {
 
 + JavaScript supports the basic math operators you would expect (`+`, `-`, `*`, `/`)
 + Anytime we see an equation in code JS will try to run the equations
-	+ So `10*3` becomes `30` to the computer running your code.  
+	+ So `10*3` becomes `30` to the computer running your code. 
 + Perform math on variables
 	```js
 	var x = 10, 
@@ -291,4 +291,4 @@ if (gasTank === 34) {
 
 ## Conclusions
 
-JavaScript is the foundation that much of the Internet is built upon. These simple building blocks can be combined to do just about anything you can imagine.   
+JavaScript is the foundation that much of the Internet is built upon. These simple building blocks can be combined to do just about anything you can imagine. 

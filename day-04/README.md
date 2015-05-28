@@ -29,7 +29,7 @@
         <td>10:30 - 11:30</td>
         <td> User Input Calculator Lab </td>
         <td>
-            <a href="http://learn-co-curriculum.github.io/fe-jquery-user-input-calc/">Lab: User Input Calculator</a></br>
+            <a href="https://github.com/learn-co-curriculum/jQuery-user-input-calculator/">Lab: User Input Calculator</a></br>
         </td>
     </tr>
     <tr>

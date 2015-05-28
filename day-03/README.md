@@ -14,8 +14,7 @@
         <td>
             <a href="https://drive.google.com/open?id=1ikZMX0TpPQxydHczwmAmH9XcHeJbA0L2TFAIHy4LpzE&authuser=0">Day 3 Deck</a>
             <br>
-            <a href="#">To-Do:</a>
-            <br>
+            <a href="https://github.com/learn-co-curriculum/Js-Fizzbuzz">To-Do: FizzBuzz</a>
         </td>
     </tr>
     <tr>

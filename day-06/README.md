@@ -50,7 +50,6 @@
             <a href="https://github.com/learn-co-curriculum/Fe-Js-Spotify-Api-Ajax">Spotify AJAX</a></br>
             <a href="https://github.com/learn-co-curriculum/Fe-Flickr-Image-Search">Lab: Flickr API</a></br>
             <a href="https://github.com/learn-co-curriculum/Js-Weather-Api-Ajax">Lab: Weather Underground API</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-gif-generator">Lab: Gif Generator</a></br>
         </td>
     </tr>
     <tr>
