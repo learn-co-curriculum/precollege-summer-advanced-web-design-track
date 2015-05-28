@@ -36,7 +36,7 @@
         <td>11:00 - 11:30</td>
         <td>Setup Github Pages</td>
         <td> 
-            <a href="#">Setup Github Pages</a>
+            <a href="lectures/github-pages">Lecture: Setup Github Pages</a>
             </br>
         </td>
     </tr>
