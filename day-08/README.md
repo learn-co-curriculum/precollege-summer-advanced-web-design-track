@@ -9,20 +9,14 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 11:30</td>
-        <td>Project Ideation</td>
+        <td>9:00 - 9:45</td>
+        <td>Mini-Lecture: Cool JS Libraries</td>
         <td>
-            <a href="lectures/intro-to-project-mode">Lecture: Intro to Project Mode</a>
+            <a href="js-libraries">Lecture: Intro to Project Mode</a>
         </td>
     </tr>
     <tr>
-        <td>11:30 - 12:30</td>
-        <td>Lunch</td>
-        <td>
-        </td>
-    </tr>
-    <tr>
-        <td>9:00 - 3:00</td>
+        <td>9:45 - 3:00</td>
         <td>Project Mode!</td>
         <td>
             <a href="https://drive.google.com/open?id=1TUj6PlPn0rFOoDMusRg376NznrgUsuXqj6mrvzMpDSM&authuser=0">Day 8 Deck</a>
