@@ -31,6 +31,9 @@
 	* [Caroline](monogram-maker.herokuapp.com)
 	* [Malachi and Jovan](http://which-fruit-are-you.herokuapp.com)
 
++ Remember, since students know about hashes, they can always hard code data themselves rather than using an API. Here's an example where students made a list of songs, qualities, and YouTube Links rather than going through an API
++ [Erin, Priya, Mac and Ethan](http://moodmusic-fi.herokuapp.com/)
+
 ### Constraints
 
 + Ask the students for some examples of websites that fit within the scope
