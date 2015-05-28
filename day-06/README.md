@@ -14,7 +14,7 @@
         <td>
             <a href="https://drive.google.com/open?id=1L1h6VZOiTxb6HAmQQWJk205COyB2tbiqAF-2vbmy0_s&authuser=0">Day 6 Deck</a>
             <br>
-            <a href="#">ToDo</a>
+            <a href="https://github.com/learn-co-curriculum/hs-js-homers-diet">ToDo: Homer's Diet</a>
         </td>
     </tr>
     <tr>
