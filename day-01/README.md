@@ -28,7 +28,7 @@
         <td>10:20 - 11:00</td>
         <td>Lecture: HTML and CSS review</td>
         <td> 
-            <a href="lectures/html-css-review">Lecture: HTML and CSS review</a>
+            <a href="lectures/html-css-review">Lecture Notes: HTML and CSS review</a>
             </br>
         </td>
     </tr>
@@ -56,8 +56,9 @@
         <td>1:00 - 2:20</td>
         <td>Lecture: JavaScript Basics</td>
         <td> 
-            <a href="lectures/js-basics">Lecture: JavaScript Basics</a>
+            <a href="lectures/js-basics/LECTURE.md">Lecture: JavaScript Basics</a>
             </br>
+            <a href="lectures/js-basics/">Lecture Notes: JavaScript Basics</a>
         </td>
     </tr>
     <tr>
