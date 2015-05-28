@@ -21,14 +21,16 @@
         <td>9:15 - 10:15</td>
         <td>Hashes</td>
         <td>
-            <a href="lectures/hashes/LECTURE.md">Lecture: Hashes</a>
+            <a href="lectures/hashes/LECTURE.md">Lecture: Hashes</a><br>
+            <a href="lectures/hashes">Lecture Notes: Hashes</a>
         </td>
     </tr>
     <tr>
         <td>10:15 - 11:30</td>
         <td>JSON and APIs</td>
         <td>
-            <a href="lectures/apis/">Lecture: JSON and APIs</a>
+            <a href="lectures/apis/LECTURE.md">Lecture: JSON and APIs</a><br>
+            <a href="lectures/apis/">Lecture Notes: JSON and APIs</a>
         </td>
     </tr>
     <tr>
