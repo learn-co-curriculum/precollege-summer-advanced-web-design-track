@@ -44,7 +44,7 @@
         <td>11:00 - 2:00</td>
         <td> Group Project </td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/hs-landing-page-group-project">Group Project: Landing Page</a>
+            <a href="https://github.com/learn-co-curriculum/hs-landing-page-group-project">Group Project: Landing Page</a></br>
             The students should have lunch whenever they'd like
         </td>
     </tr>
