@@ -10,9 +10,11 @@ If you had to reinvent the wheel every time you wanted to drive somewhere, you w
 
 ## Lesson Plan
 
-Remember how we talked about jQuery as a Javasript Library? It's just a collection of Javascript code that other developers wrote to make things easier. There are a ton of awesome libraries out there that do everything from making your pages bounce, to showing awesome graphics, to getting the weather. Here are some examples, but as always Search is your friend.
+Remember how we talked about jQuery as a Javasript Library? It's just a collection of Javascript code that other developers wrote to make things easier. There are a ton of awesome libraries out there that do everything from making your pages bounce, to showing awesome graphics, to getting the weather. Here are some examples, but as always Google is your friend.
 
-### Processing.js
+Here are a few different examples - feel free to check out the documentation if you're interested in any of them!
+
+### Processing
 
 [Processing](https://processing.org/) is a visual programming language that makes it really easy to draw to the screen. 
 
@@ -41,7 +43,7 @@ Here are some awesome examples of Processing in action:
 
 ### Trianglify
 
-[Trianglify](http://qrohlf.com/trianglify/) is a neat little library that makes beautiful triangle mesh backgrounds for you sites.  
+[Trianglify](http://qrohlf.com/trianglify/) is a neat little library that makes beautiful triangle mesh backgrounds for you sites. 
 
 ### But wait! There's more.
 + Search for "cool javascript libraries"
