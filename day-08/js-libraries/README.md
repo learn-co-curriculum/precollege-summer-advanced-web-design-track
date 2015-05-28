@@ -3,13 +3,14 @@
 ## Objectives
 
 + Become aware of cool Javascript libraries
-+ Include and use the functionality of those libraries
 
 ## Motivation
 
 If you had to reinvent the wheel every time you wanted to drive somewhere, you would never get anywhere. Javascript has a bunch of really cool libraries with amazing functionality. Knowing about them and how to utilize them will enable you to build websites that might otherwise have been impossible.
 
 ## Lesson Plan
+
+Remember how we talked about jQuery as a Javasript Library? It's just a collection of Javascript code that other developers wrote to make things easier. There are a ton of awesome libraries out there that do everything from making your pages bounce, to showing awesome graphics, to getting the weather. Here are some examples, but as always Search is your friend.
 
 ### Processing.js
 
