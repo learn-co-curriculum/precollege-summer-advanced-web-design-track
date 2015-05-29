@@ -72,3 +72,8 @@
 + Understand how to chain jQuery methods
 + Implement the jQuery UI library and other jQuery plugins
 + Parse through the jQuery documentation as a resource
+
+## Hints and Hurdles
+
++ This is a packed day. The jQuery lecture has a lot of content, and all of the labs are challenging. As always, remember to remind students that it's okay if it's okay if it feels hard - that means they're learning!
++ Day 5 has some time built in for a review lecture, and the majority of the day will be spent on a group project, so don't worry if some concepts need to be solidified more. 

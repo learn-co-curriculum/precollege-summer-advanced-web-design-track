@@ -89,7 +89,7 @@ $(numbers).each(function(i, value){
 
 jQuery brings out a lot of the functionality that is possible with JavaScript and makes it really easy. 
 
-Also, over half a BILLION sites use jQuery, and it was written by a 20 year old in his downtime in college.  
+Also, over half a BILLION sites use jQuery, and it was written by a 20 year old in his downtime in college. 
 
 ## Hints and Hurdles
 

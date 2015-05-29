@@ -91,3 +91,11 @@
 + Understand the concept of a return value
 + Understand local and global variable scope
 + Understand when to use semicolons with functions
+
+## Hints and Hurdles
++ The Chrome Extension Project is really fun - give the students plenty of time to work on this. 
+
+### Bare Minimum SWBATs for Tomorrow
++ Declaring a function
++ Understanding the difference between declaring and executing a function
++ Executing a function with and without arguments

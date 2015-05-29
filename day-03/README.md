@@ -64,3 +64,12 @@
 + Use jQuery and CSS selectors to access HTML elements
 + Create, Read, Update, and Delete (CRUD) HTML elements using jQuery
 + Iterate through a jQuery Collection
+
+## Hints and Hurdles
+
++ Both group labs on this day are difficult, but also a lot of fun. Remind the students that they're awesome and this is supposed to be difficult. 
++ This could also be a good time for mini-culture talks - remind students that it's good for their programs to be broken. If their programs weren't broken, they'd have nothing to do!
+
+
+## Bare Minimum SWBATs for Tomorrow
++ By tomorrow, students should be starting to feel comfortable with jQuery. Tomorrow is a dive into more advanced jQuery topics. 
