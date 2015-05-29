@@ -63,8 +63,12 @@
 </table>
 
 ## SWABTs
-* UX — Explain the significance of 'User Experience' in the context of programming.
-* UX - Identify and critique design decisions in their favorite websites and apps.
-* IDEATION — Use storyboarding as a tool for generating compelling narratives and virtual experiences 
-* IDEATION — Use wireframing to prototype their websites
-* Build a choose-your-own-adventure site using HTML and CSS.
++ UX — Explain the significance of 'User Experience' in the context of programming.
++ UX - Identify and critique design decisions in their favorite websites and apps.
++ IDEATION — Use storyboarding as a tool for generating compelling narratives and virtual experiences 
++ IDEATION — Use wireframing to prototype their websites
++ Build a choose-your-own-adventure site using HTML and CSS.
+
+## Hints and Hurdles
++ The week review should be a very quick refresher on what we've learned this week.
++ They'll be building the group project entirely from scratch. Remind them to minimize the time they spend choosing who to build the site for (Beyonce, iPhone, etc) - the vast majority of the ideation time should be spent designing the user experience. 
