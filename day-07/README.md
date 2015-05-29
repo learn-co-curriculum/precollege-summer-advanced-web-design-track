@@ -40,4 +40,6 @@
 </table>
 
 ## Hints and Hurdles
-+ The most difficult part of project ideation is choosing a complex but do-able idea. Have the students take some time and talk through all of the steps for their projects before they write any code. 
+
++ The most difficult part of project ideation is choosing a complex but do-able idea. Have the students take some time and talk through all of the steps for their projects before they write any code. Have them think about their MVP and how they can add features. 
++ Over the next few days, students will be working independently on their projects. Keep an eye out for times to deliver mini-culture talks, do improv, etc. 
