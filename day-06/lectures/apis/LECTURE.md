@@ -69,9 +69,11 @@ See if you can identify the use of APIs next time you use the internet.
 
 + Every API is a little bit different, but in general we can follow a process for connecting to them. 
 
-1. Read the documentation. This is the most important part. Since every API is different, you need to get to know the specific functionality and figure out how to integrate the API.
+1. Read the documentation. 
 2. Setup an "API call" - going to get the data
 3. Deciding what to do when you get the data back
+
++ Sometimes, APIs are well documented and we can follow the instructions easily. Other times, they're not so well documented and we'll have to play around a bit more. If something doesn't make sense, that's okay. Read it again and eventually it will sink in. We're here to help you - remember that it's okay to struggle. 
 
 + For the most part, the APIs we use will give us back JSON objects that we can use to manipulate our DOM. We can make API calls using jQuery's [getJSON method](http://api.jquery.com/jquery.getjson/)
 + Here's an example: 
@@ -123,6 +125,7 @@ $.getJSON(address, function(response){
 ## Hints and Hurdles
 
 + This is more complicated than what we covered before - if it takes a little of time to sink in, that's okay! Go slow, break down the problem into steps. 
++ On that note, remind the students that they are awesome and it's okay if they struggle with this!
 + We've pre-selected a few APIs that have nice interfaces - students are HIGHLY encouraged to stick to these for their projects. 
 
 

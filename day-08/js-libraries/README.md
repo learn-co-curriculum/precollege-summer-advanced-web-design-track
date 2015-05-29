@@ -30,7 +30,6 @@ Here are some awesome examples of Processing in action:
 + [Pretty Colors](http://smooth-ice-321.herokuapp.com/)
 + [Simulated Genealogies](http://bedford.io/projects/coaltrace/)
 + [Phantogram Music Video](https://www.youtube.com/watch?t=67&v=RsQjC5zVnt8)
-+ <img src="http://dextro.org/hhhh/h001/h001.html">
 + [And MORE](http://processingjs.org/exhibition/)
 
 ### D3.js

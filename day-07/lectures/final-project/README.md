@@ -12,7 +12,11 @@
 + For the next four days, we'll be working almost full time on our final projects. 
 + These will be real working web applications that you'll be able to share with your family and friends. 
 + You will be responsible for building these projects from the ground up. 
-+ What makes a good project? 
++ What makes a good project?
++ We have about eighteen hours of total time to work on our projects. Think about how you want to spend your time. 
+	+ You could build out one more complex project
+	+ You could also choose to build out two smaller projects. 
++ It's up to you, but make sure to set realistic goals and expectations for yourself and your teammates. 
 
 ### Examples
 
@@ -30,6 +34,9 @@
 	* [Clarence and Fiona](http://breaking-as.herokuapp.com/)
 	* [Caroline](monogram-maker.herokuapp.com)
 	* [Malachi and Jovan](http://which-fruit-are-you.herokuapp.com)
+
++ Remember, since students know about hashes, they can always hard code data themselves rather than using an API. Here's an example where students made a list of songs, qualities, and YouTube Links rather than going through an API
++ [Erin, Priya, Mac and Ethan](http://moodmusic-fi.herokuapp.com/)
 
 ### Constraints
 
@@ -55,7 +62,7 @@
 	* Interactive Comic
 
 ### Conclusion/So What?
-+ From this point, you hav about an hour to come up with your ideas and get them approved by a teacher. After that, you'll have about 17 hours over the next three and a half days to build out your projects - keep your timeframe in mind when choosing what to build! 
++ From this point you have about an hour to come up with your ideas and get them approved by a teacher. After that, you'll have about 17 hours over the next three and a half days to build out your projects - keep your timeframe in mind when choosing what to build! 
 
 
 ### Hints and Hurdles

@@ -18,7 +18,7 @@
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:00</td>
+        <td>9:15 - 9:45</td>
         <td>Week Review</td>
         <td>
             <a href="lectures/review">Lecture Notes: Week Review</a>
@@ -26,14 +26,14 @@
     </tr>
     <tr>
     <tr>
-        <td>10:00 - 10:30</td>
+        <td>9:45 - 10:15</td>
         <td>Project Introduction</td>
         <td>
             <a href="lectures/project">Lecture Notes: Project</a>
         </td>
     </tr>
     <tr>
-        <td>10:30 - 11:00</td>
+        <td>10:15 - 10:45</td>
         <td>UX Review</td>
         <td>
             <a href="lectures/ux">Lecture: UX, Wireframing, Storyboarding</a>
@@ -41,7 +41,7 @@
     </tr>
     <tr>
     <tr>
-        <td>11:00 - 2:00</td>
+        <td>10:45 - 2:00</td>
         <td> Group Project </td>
         <td>
             <a href="https://github.com/learn-co-curriculum/hs-landing-page-group-project">Group Project: Landing Page</a></br>
