@@ -59,6 +59,20 @@ function()
 }
 ```
 
+Let's say we wanted to just have our `.click()` alert "Hello World". The function to do that looks like this:
+
+```js
+function(){alert("Hello World");}
+```
+
+So the click handler just takes that exact function in between its `()`, like so:
+
+```js
+$(".the-button").click(function(){alert("Hello World");});
+```
+
+Be Careful!! The `()`, `{}`, and `;` can look confusing, but if you count where they open and close we are just starting with `()` and dropping in a function.
+
 This is called an *anonymous* function, and is our callback function. It has no name and will only be run when the event handler is triggered. JS/jQuery allows you to also pass in a named function.  Our code in this case could look like this:
 
 ```js
