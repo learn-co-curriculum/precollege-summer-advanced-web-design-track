@@ -39,6 +39,10 @@ The purpose of this course is to give students an in depth understanding of fron
 ## Hints and Hurdles
 
 + This is a packed course - there is a lot of material to cover. Set the expectation early that it's okay not to complete everything - they have the rest of their lives to master these skills. Every one of them will leave as a programmer, but no one becomes an expert programmer after a few weeks. They have a long time to keep working and learning. 
-+ In general, most of day 1 should be review. There is a lot of lecture, but you can move quickly through it. If students are still having trouble with HTML, have them do some independent practice. They still have access to the materials from their last course on [Learn](http://learn.co)
-+ 
++ There are tons of resources on Learn as well, including Slides and Videos that go very in depth into many of the topics. Use these as optional resources during class, and encourage students who are interested in checking them out on their own. 
++ In general, most of days 1 and 3 should be review. There is a lot of lecture, but you can move quickly through it. If students are still having trouble with HTML, have them do some independent practice. They still have access to the materials from their last course on [Learn](http://learn.co)
++ Some of the labs were also included as Stretch Labs in the Web Design 1 course - if students already completed an activity, give them some options on what to work on.
+	+ They can find another lab that covers similar topics
+	+ They can start building a site of their own choosing
+	+ They can help other students. Remind them that to teach is to learn. These concepts are still new - helping others will solidify their understanding. 
 

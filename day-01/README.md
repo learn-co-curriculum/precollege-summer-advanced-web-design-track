@@ -25,18 +25,10 @@
         </td>
     </tr>
     <tr>
-        <td>10:20 - 11:00</td>
+        <td>10:20 - 11:30</td>
         <td>Lecture: HTML and CSS review</td>
         <td> 
             <a href="lectures/html-css-review">Lecture Notes: HTML and CSS review</a>
-            </br>
-        </td>
-    </tr>
-    <tr>
-        <td>11:00 - 11:30</td>
-        <td>Setup Github Pages</td>
-        <td> 
-            <a href="lectures/github-pages">Lecture: Setup Github Pages</a>
             </br>
         </td>
     </tr>
@@ -99,3 +91,15 @@
 + Use different types of dialogue boxes like alert and prompt
 + Understand comparison and logic operators
 + Use conditional statements to control program flow (if/else and switch)
+
+## Hints and Hurdles
+
++ You should be able to move quickly through the HTML/CSS - if students need more help, have them do some work independently. 
++ When setting up Github pages, leave plenty of time to debug. This is a nice win to get before lunch. 
+
+### "Need To Knows" For Tomorrow
++ JavaScript Datatypes
++ Variable assignment
++ String concatenation
++ Dialogue boxes
++ Control Flow
