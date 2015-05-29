@@ -85,3 +85,16 @@
 + Store and access the returned JSON of an API
 + Use callbacks to interpret and act on the returned data 
 + Surface that data to the UI
+
+## Hints and Hurdles
++ This is another difficult day - remind the students that they're awesome!
++ Be sure you and all the students install the [JSON Viewer Chrome Extension](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) - it will let you view JSON in a really nice way. 
++ The `$getJSON` method is very complex - there's a lot going on. Go slow, break it down into steps. Remind the students it's okay to feel uncomfortable. 
+
+### Bare Minimum SWBATs 
++ We can store data in hashes - they're basically like arrays, but use named keys instead of numbers
++ We can push hashes and arrays inside of other hashes
++ We access data like this `teams["Brooklyn Nets"]["players"]`
++ We can connect to other apps using APIs - they send us the data as a JSON object, which we can treat like a big nested hash.
+
+

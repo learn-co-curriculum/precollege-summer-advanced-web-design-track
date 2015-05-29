@@ -39,6 +39,5 @@
     </tr>
 </table>
 
-## Resources
-
-## Lectures
+## Hints and Hurdles
++ The most difficult part of project ideation is choosing a complex but do-able idea. Have the students take some time and talk through all of the steps for their projects before they write any code. 
