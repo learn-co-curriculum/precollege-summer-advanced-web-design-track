@@ -46,3 +46,4 @@ The purpose of this course is to give students an in depth understanding of fron
 	+ They can start building a site of their own choosing
 	+ They can help other students. Remind them that to teach is to learn. These concepts are still new - helping others will solidify their understanding. 
 
+
