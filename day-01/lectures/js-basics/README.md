@@ -77,12 +77,13 @@ Checking the data type:
 + prompt
 + Log
 
-### Doing math with JavaScript: 
-	+ Arithmetic Operators
+### Doing math with JavaScript
+
+#### Arithmetic Operators
 
 <img src= "https://s3.amazonaws.com/after-school-assets/jquery.png">
 
-### Shorthand Operators
+#### Shorthand Operators
 
 | shortcut  | original  | 
 |---|---|
