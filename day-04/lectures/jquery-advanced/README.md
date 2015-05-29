@@ -7,6 +7,7 @@
 + Add callback functions to event handlers
 + Use the `$(this)` selector in event handlers
 + Add animations to HTML elements using jQuery
++ Understand how to chain jQuery methods
 + Implement the jQuery UI library and other jQuery plugins
 + Parse through the jQuery documentation as a resource
 

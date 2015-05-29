@@ -7,6 +7,7 @@
 + Add callback functions to event handlers
 + Use the `$(this)` selector in event handlers
 + Add animations to HTML elements using jQuery
++ Understand how to chain jQuery methods
 + Implement the jQuery UI library and other jQuery plugins
 + Parse through the jQuery documentation as a resource
 
@@ -150,6 +151,28 @@ $("#panel").hide();
 + `.fadeOut()` - Fade out the element
 
 Check the [documentation](https://api.jquery.com/category/effects/) for more examples and explanations.
+
+### Chaining Methods
+
+Up until this point we've been writing jQuery statements one at a time. However, when you want to do multiple things to an element you can *chain* multiple commands together so you don't need to look up an element over and over again. 
+
+For Example, if we wanted an element to turn blue, and then move down and up we could write it this way:
+
+```js
+$("#stuff").css("color", "blue");
+$("#stuff").slideDown(2000);
+$("#stuff").slideUp(2000);
+```
+
+This works, but we're repeating the lookup for the HTML element with the ID of `stuff` multiple times. This is not only harder to write but is also computationally expensive (it takes jQuery time to look it up each time).
+
+Instead we can do this:
+
+```js
+$("#stuff").css("color", "blue").slideDown(2000).slideUp(2000);
+```
+
+Here, we've *chained* the methods by simply adding the next one to the end of the chain.
 
 ### jQuery UI
 
