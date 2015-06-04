@@ -35,7 +35,7 @@
         <td>2:00 - 3:00</td>
         <td>Science Fair Graduation!</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/hs-graduation-guidelines">Graduation Guide/a>
+            <a href="https://github.com/learn-co-curriculum/hs-graduation-guidelines">Graduation Guide</a>
             <br>
         </td>
     </tr>

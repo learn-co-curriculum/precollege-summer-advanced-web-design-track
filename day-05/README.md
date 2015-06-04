@@ -56,8 +56,11 @@
     </tr>
     <tr>
         <td>2:50 - 3:00</td>
-        <td> Wrap Up </td>
-        <td>
+        <td> Wrap Up</td>
+        <td> 
+            Tell the kids they're awesome.
+            <br>
+            Mid Course Survey
         </td>
     </tr>
 </table>
