@@ -55,7 +55,7 @@ function goGetLunch() {
 + What’s up with those parentheses? Those are like a placeholder for something called an argument. 
 + Our instructions are pretty generic right now. What if we wanted to direct them towards a specific student? Like adding a step that says “hey, Joe”.
 
-### Passing in Paramaters (inputs)
+### Passing in Parameters (inputs)
 
 ```js
 function goGetLunch(student) {
