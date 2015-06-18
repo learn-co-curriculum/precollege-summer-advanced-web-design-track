@@ -1,6 +1,6 @@
 # Functions
 
-## SWABATs 
+## SWBATs 
 
 + Understand N.I.C.O (Name, Input, Code, Output)
 + Declare JS functions with and without parameters
