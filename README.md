@@ -47,3 +47,5 @@ The purpose of this course is to give students an in depth understanding of fron
 	+ They can help other students. Remind them that to teach is to learn. These concepts are still new - helping others will solidify their understanding. 
 
 
+
+<a href='https://learn.co/lessons/precollege-summer-advanced-web-design-track' data-visibility='hidden'>View this lesson on Learn.co</a>
