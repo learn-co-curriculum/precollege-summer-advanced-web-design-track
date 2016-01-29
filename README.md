@@ -48,4 +48,4 @@ The purpose of this course is to give students an in depth understanding of fron
 
 
 
-<a href='https://learn.co/lessons/precollege-summer-advanced-web-design-track' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/precollege-summer-advanced-web-design-track' title='Pre-College Advanced to Web Design Track'>Pre-College Advanced to Web Design Track</a> on Learn.co and start learning to code for free.</p>
